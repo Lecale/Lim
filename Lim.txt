@@ -43,13 +43,34 @@ For those players at kyu level, the author offers the following advice:
 
 Table of Contents
 
-I. Game T.Catalin against H.Pietsch
-II. Game Ma Xia Chun against Lee Chang He
-III. Game Lee Se-Dol against Rui Nai Wei
-IV. Game Cho Hun Hyun against O Rissei
+I. Game: T.Catalin against H.Pietsch
+II. Game: Ma Xia Chun against Lee Chang He
+III. Game: Lee Se-Dol against Rui Nai Wei
+IV. Game: Cho Hun Hyun against O Rissei
 V. Dubious joseki-fuseki
 	V.1 Low chinese fuseki favoured by Lee Chang Hong
 	V.2 Joseki favoured by Kato the "Killer"
 	V.3 The starting point for debate upon a classic joseki
 	V.4 An other example of fuseki
 	V.5 An other example of joseki
+
+==========
+
+I. Game: T.Catalin against H.Pietsch
+
+This is a game between Taranu Catalin (4th dan pro. romanian of the Nihon Ki-In) and Hans Pietsch (4th dan pro. german of the Nihon Ki-In), which was broadcast by the NHK and published in Go-Weekly on 17/01/2000.
+
+White: Taranu Catalin
+Black: Hans Pietsch
+Main Time 1h, byoyomi: 30s/stone.
+
+Black ought to have continued the joseki 27->47. Next, 27, 28 ->49. 30 us oremature (30->49).
+
+==========
+
+Mistakes
+
+Here are listed the mistakes which I noticed, but did not correct.
+
+T.Catalin should be C.Taranu ( Cătălin Țăranu )
+
