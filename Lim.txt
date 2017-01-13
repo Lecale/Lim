@@ -11,7 +11,7 @@ President de la Fédération Francaise de Go
 
 It is completely natural that we begin this series of booklets for the use of Go players with Master Lim. We must thank those who have facilitated the publication of this work through their volunteer work, foremost Dohy Hong for the typesetting and Cyrille Deuss for the diagrams.
 
-In this ressurection of "Noir et Blanc", Master Lim displays once again his science and his brand of critical analysis. While the professional players are treated without respect, we, the fans of Master Lim know that his intentions are pure. Here the search for the truth comes before superficial images and social conventions. Also, if the shape of this work and the raw language of the author can surprise the neophyte, there is every advantage to work seriously through the diagrams, to follow the invitation of Master Lim to respond to the debate he starts and to accompan him in the incessant search for the truth.
+In this ressurection of "Noir et Blanc", Master Lim displays once again his science and his brand of critical analysis. While the professional players are treated without respect, we, the fans of Master Lim know that his intentions are pure. Here the search for the truth comes before superficial images and social conventions. Also, if the shape of this work and the raw language of the author can surprise the neophyte, there is every advantage to work seriously through the diagrams, to follow the invitation of Master Lim to respond to the debate he starts and to accompany him in the incessant quest for the truth.
 
 
 Arnaud Knippel
@@ -38,3 +38,18 @@ For those players at kyu level, the author offers the following advice:
 4) At your level, it is very difficult to study the games of professionals, but you must sense their errors : doubt is the beginning of science.
 
 5) You must always strive to hold an indepedent mind, never dogmatic, it is this which form your capacity to judge. Even the best professionals often commit unthinkable errors; the structure of the human conscious is very fragile. The one who is alert to his own errors is intelligent.
+
+==========
+
+Table of Contents
+
+I. Game T.Catalin against H.Pietsch
+II. Game Ma Xia Chun against Lee Chang He
+III. Game Lee Se-Dol against Rui Nai Wei
+IV. Game Cho Hun Hyun against O Rissei
+V. Dubious joseki-fuseki
+	V.1 Low chinese fuseki favoured by Lee Chang Hong
+	V.2 Joseki favoured by Kato the "Killer"
+	V.3 The starting point for debate upon a classic joseki
+	V.4 An other example of fuseki
+	V.5 An other example of joseki
