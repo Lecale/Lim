@@ -1,5 +1,5 @@
 
-(;SZ[19]FF[4]ST[2]AP[GOWrite:2.3.46]GM[1]CA[ISO8859-1]FG[259:]GN[ ]PW[Cho Hun Hyun]PB[O Rissei]PM[2]
+(;SZ[19]FF[4]ST[2]AP[GOWrite:2.3.46]GM[1]CA[ISO8859-1]FG[257:Fig. 1 (1-25)]GN[ ]PW[Cho Hun Hyun]PB[O Rissei]PM[2]
 ;B[pd]
 ;W[dd]
 ;B[pq]
@@ -25,6 +25,7 @@
 ;B[bp]
 ;W[cq]
 ;B[mc]
+;FG[257:Fig. 2 (26-100)]PM[2]
 ;W[bl]
 ;B[bk]
 ;W[co]
@@ -100,4 +101,6 @@
 ;W[lo]
 ;B[nh]
 ;W[lf]
+;FG[257:]PM[2]
+;B[tt]
 )
