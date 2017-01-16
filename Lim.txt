@@ -64,7 +64,11 @@ White: Taranu Catalin
 Black: Hans Pietsch
 Main Time 1h, byoyomi: 30s/stone.
 
-Black ought to have continued the joseki 27->47. Next, 27, 28 ->49. 30 us oremature (30->49).
+Black ought to have continued the joseki 27->47. Next, 27, 28 ->49. 30 is premature (30->49). One has the impression that the two players play without direction. 64 is premature: 64->104. If Black had played 65 at 66, the game would be over. 73 is negative. Finally, Black won. It is not a good game: coherent, but aleatory.
+
+	*	*	*
+	
+Honinbo Jowa said: "The essential technical skill in Go is to know to judge the knub of a game in the thirty or fifty opening moves of the game".
 
 ==========
 
