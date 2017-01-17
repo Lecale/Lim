@@ -70,6 +70,7 @@ Black ought to have continued the joseki 27->47. Next, 27, 28 ->49. 30 is premat
 	
 Honinbo Jowa said: "The essential technical skill in Go is to know to judge the knub of a game in the thirty or fifty opening moves of the game". If we play badly in the beginning, then there will be nothing good to follow. According to Master Go Seigen, the young Shuei, 19th Honinbo, conceived of ten thousand fuseki to employ against the 18th Honinbo Shuho. Inspired by Shuei, Master Go Seigen conceived hundreds of fuseki, and now once more, he works with energy (A way of play for the 21st Century).
 
+It's a real shame, it is not uncommon these days to find bad moves played by professionals even in the first twenty moves of their game. Utaro Hashimoto (old 9th dan, rival of Go Seigen) said "he who plays a single good game in the whole of his life is one of the best professionals". He recalled "One day in the winter of 1944, when the was in the Pacific had turned bad for Japan, somewhere in Tokyo, in a cold room without coal, without sponsor, I played a game with Go Seigen, and I won with White by a point without counting the komi. IN this game, there was no bad move neither by White nor by Black, so there was nothing to criticise. For all the rest, all my other games are so bad that the disgust me to the point of nausea. Ah, what shame!". What is then the philosophy of Go? It's to learn to be ashamed of yourself. That is to say, at the level of confuciusism, a rigourous sense of self criticism to recognize errors.
 
 
 
@@ -78,9 +79,6 @@ Is Go useful? Manifestly, the theory of gravitation and the discovery of radium 
 
 ==========
 
-Mistakes
+Notes on this Translation
 
-Here are listed the mistakes which I noticed, but did not correct.
-
-T.Catalin should be C.Taranu ( Cătălin Țăranu )
-
+This is just an academic exercise by myself. There were some mistakes in Maitre Lim's text which I corrected, but perhaps these are outweighed by the ones I introduced myself. If you want a better version of this work, and you can not read the original, just update the github repository that this work came from.
