@@ -43,7 +43,7 @@ For those players at kyu level, the author offers the following advice:
 
 Table of Contents
 
-I. Game: T.Catalin against H.Pietsch
+I. Game: C.Taranu against H.Pietsch
 II. Game: Ma Xia Chun against Lee Chang He
 III. Game: Lee Se-Dol against Rui Nai Wei
 IV. Game: Cho Hun Hyun against O Rissei
@@ -56,11 +56,11 @@ V. Dubious joseki-fuseki
 
 ==========
 
-I. Game: T.Catalin against H.Pietsch
+I. Game: C.Taranu against H.Pietsch
 
 This is a game between Taranu Catalin (4th dan pro. romanian of the Nihon Ki-In) and Hans Pietsch (4th dan pro. german of the Nihon Ki-In), which was broadcast by the NHK and published in Go-Weekly on 17/01/2000.
 
-White: Taranu Catalin
+White: Catalin Taranu 
 Black: Hans Pietsch
 Main Time 1h, byoyomi: 30s/stone.
 
@@ -78,7 +78,8 @@ At the start of this game, White made grave errors. But, Black has not taken the
 
 Fig. 1: In casting an eye over the opening up to move 18, the author detected a bad sign for White, and an idea came to him in a flash, because Black has built the wall 7-17 in sente, and the shape 8-18 is thin (usui). Furthermore, move 6 is questionable. First of all, setting Fig. 1 to one side, we should more closely examine this move.
 
-Dia. 1:
+Dia. 1: The origin of 6 in Fig. 1. White: Cristian Pop, Black: Catalin Taranu, Fujitsu 1997. 9 is a funny move (c.f. Dia. 2).
+Dia. 2: In
 ------------------
 
 	*	*	*
