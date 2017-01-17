@@ -74,7 +74,11 @@ It's a real shame, it is not uncommon these days to find bad moves played by pro
 
 	*	*	*
 	
-At the start of this game, White made grave errors. But, Black has not taken them into account, he has not punished them. The author will demonstrate in a cartesian manner that Black can win by fifty points without taking any risk.
+At the start of this game, White made grave errors. But, Black has not taken them into account, he has not punished them. The author will demonstrate in a cartesian manner that Black can win by fifteen points without taking any risk.
+
+Fig. 1: In casting an eye over the opening up to move 18, the author detected a bad sign for White, and an idea came to him in a flash, because Black has built the wall 7-17 in sente, and the shape 8-18 is thin (usui). Furthermore, move 6 is questionable. First of all, setting Fig. 1 to one side, we should more closely examine this move.
+
+Dia. 1:
 ------------------
 
 	*	*	*
