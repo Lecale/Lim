@@ -74,7 +74,7 @@ It's a real shame, it is not uncommon these days to find bad moves played by pro
 
 	*	*	*
 	
-At the start of this game, White made grave errors.
+At the start of this game, White made grave errors. But, Black has not taken them into account, he has not punished them. The author will demonstrate in a cartesian manner that Black can win by fifty points without taking any risk.
 ------------------
 
 	*	*	*
