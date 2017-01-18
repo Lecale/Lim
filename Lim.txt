@@ -90,7 +90,16 @@ Dia. 5-9: The diagrams 5-9 are unfavourable for White. The author cannot find a 
 Dia. 10: if Black plays 7 at the other side, it is another game.
 After 10, there is a question of the shicho. In this game, 2 is a shicho breaker (black 11 at A, white B, black C, white D, black E). This diagram is slightly favourable for White. In contrast, if the shicho doesn't work, it is catastrophic for Black. But, later, according to the play, if Black finds a favourable solution to the shicho for himself, he will not hesitate to play 7 in Dia. 10.
 
-For the moment, the provisional conclusion of move 6 (Fig. 1) according to the author, is that it is a slow move or perhaps obscure. The second important point in the game is that characteristic of "Tasuki" fuseki (literaly: two cords which cut the jacket diagonally from the shoulders to the knee, a fighting shape).
+For the moment, the provisional conclusion of move 6 (Fig. 1) according to the author, is that it is a slow move or perhaps obscure. The second important point in the game is that characteristic of "Tasuki" fuseki (literaly: two cords which cut the jacket diagonally from the shoulders to the knee, a fighting shape). With Tasuki, in the opponent's corner, it is better not to play a large joseki, because the latter brings two sources of anguish: ko and shicho. In the real game, White allowed Black to create a wall in sente; it is the first error of White. The second is to have neglected to check diagrams 4 to 10, and notably diagram 10.
+
+Where should White play 6? The author advices to play 6 at A in Fig. 1 to invite Black into a real fight. In this case, Black should not play 7 at B (Dia. 11,12), nor at C (Dia. 13).
+
+Dia. 11: After 12, for White, A and B are miai. One must examine the follow up to this diagram. For Black, there is nothing good. For example, the author shows a futile try for Black (Dia. 12).
+
+Dia. 12: The more Black continues in this sequence, the worse it gets. The overconcentrated black shape is ridiculous.
+
+Dia. 13: This position is quite nice for White. 6 is well placed. There are other choices for Black. If Black plays 7 at D in Fig. 1, White 8 at C. If Black 7 at E, White F (Dia. 14).
+
 
 ------------------
 
