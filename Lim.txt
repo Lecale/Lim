@@ -1,3 +1,11 @@
+Note on commented games
+by Master Lim
+
+[]
+
+Final of the LG Cup 2001 (1-32): Lee See Dol vs Lee Chang Ho
+
+A brochure of the Ligue de Go d'Ile de France - November 2001
 ==========
 
 Preface
@@ -100,7 +108,13 @@ Dia. 12: The more Black continues in this sequence, the worse it gets. The overc
 
 Dia. 13: This position is quite nice for White. 6 is well placed. There are other choices for Black. If Black plays 7 at D in Fig. 1, White 8 at C. If Black 7 at E, White F (Dia. 14).
 
+Dia. 14: We envisage play up to 26. If Black 21 at 22, White A. The author advices Black to follow the sequence in Dia. 15.
 
+Dia. 15: This diagram is satisfactory for both. This series of a dozen diagrams is a study, a preparation, indispenable to predict the key issue of the game with any theoretical conviction. Go is a cartesian science. Even if we make errors on certain details, the moral basis of reasoning is indeniable.
+
+After Dia. 1 below, the global context begins. The 15 preceeding diagrams served as local preparation.
+
+Fig. 1: The sequence 9-11 is already a breaker for the shicho which can arise from the south east corner. In playing 10-18, White seems happy, because he has played on the 2 sides at the same time, but this is an illusion. According to the author, White ought to play 10 elsewhere (Dia. 1).
 ------------------
 
 	*	*	*
