@@ -15,7 +15,7 @@ Master Lim is a historic figure in the game of Go in France. He taught Go for mo
 The Ligue de Go d'Ile de France, who act with vigour in the development of Go in France, meet with enthusiasm the publication of this work. It will be a precious aid in the understanding of the game, in particular in its global component, from a distance the most difficult and the most abstract.
 
 Frédéric Renaud
-President de la Fédération Francaise de Go
+President de la Fédération Française de Go
 
 It is completely natural that we begin this series of booklets for the use of Go players with Master Lim. We must thank those who have facilitated the publication of this work through their volunteer work, foremost Dohy Hong for the typesetting and Cyrille Deuss for the diagrams.
 
@@ -134,7 +134,9 @@ Suppose that, despite the humiliation, White must play 24. The move 25 of Fig. 2
 
 Dia. 7: White is obligated to play 3-5 to avoid the blockade. The black wall works well in silence, and menaces White. If White plays 3 at A, Black refutes with B (Dia. 8).
 
+Dia. 8: If White 9 at A, Black 10 at 10; nothing is good for White.
 
+Fig. 2: White can not go beyond 26, but Black can come in to 39; it is very annoying for White. The two black moves 27 and 29 are they not reckless? White should destroy the intrusion (Dia. 9).
 
 ------------------
 
