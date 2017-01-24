@@ -138,6 +138,24 @@ Dia. 8: If White 9 at A, Black 10 at 10; nothing is good for White.
 
 Fig. 2: White can not go beyond 26, but Black can come in to 39; it is very annoying for White. The two black moves 27 and 29 are they not reckless? White should destroy the intrusion (Dia. 9).
 
+Dia. 9: 31 is necessary to weaken White. After 33, White has two ways to attacker: A (Dia. 10) and B (Dia. 12).
+
+Dia. 10: All the moves up to 11 are forced. After 14, if White plays at A then what will happen? (Dia. 11)
+
+Dia. 11: For White, it is worse than the preceding diagram.
+
+Dia. 12: After 4, to attack, White has nothing but 5. If 5 at A, Black 6 at B. Conclusion: White can not kill the invasion; he must accept the pain and wait for revenge: 32.
+
+Fig. 2: White should not play 34 at D. The author will demonstrate the impossibility of killing the black group after 34 at D (Dia. 13-15).
+
+Dia. 13: In this diagram, it is no longer a question of killing Black. Playing 5 at 7 is more lively, but - (Dia. 14).
+
+Dia. 14: 8 is tesuji. After 12, White has two choices: 13 or 16. if White plays at 13, for Black things are easy. If White plays at 16, that will be a fight (Dia. 15).
+
+Dia. 15: After 20 and 22, there are some variations, but none which work for White. Verify for yourself.
+
+Fig. 2:
+
 ------------------
 
 	*	*	*
