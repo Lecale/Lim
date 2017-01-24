@@ -154,7 +154,9 @@ Dia. 14: 8 is tesuji. After 12, White has two choices: 13 or 16. if White plays 
 
 Dia. 15: After 20 and 22, there are some variations, but none which work for White. Verify for yourself.
 
-Fig. 2:
+Fig. 2: If White does not answer 35, that allows a perfect shibori for White (Dia. 16). 38 is forced. 40 is basically forced; else Black plays at E. White can not play at E. If he plays this, Black plays tsukekoshi at C; the shicho does not work for White. In this game, no shicho works for White. The black wall 7-9-11-13-17 (Fig. 1) is a catastrophe for White.
+
+
 
 ------------------
 
