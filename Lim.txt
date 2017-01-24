@@ -156,7 +156,11 @@ Dia. 15: After 20 and 22, there are some variations, but none which work for Whi
 
 Fig. 2: If White does not answer 35, that allows a perfect shibori for White (Dia. 16). 38 is forced. 40 is basically forced; else Black plays at E. White can not play at E. If he plays this, Black plays tsukekoshi at C; the shicho does not work for White. In this game, no shicho works for White. The black wall 7-9-11-13-17 (Fig. 1) is a catastrophe for White.
 
+Before returning to the game, let us make a summary of what we have studied.
 
+Dia. Extra: It is the opinion of the author: 6->A, 7->B, 8->16, 10->C, 12->D, 18->E.
+
+After 19, White has little choice globally. Notably, 
 
 ------------------
 
