@@ -160,7 +160,7 @@ Before returning to the game, let us make a summary of what we have studied.
 
 Dia. Extra: It is the opinion of the author: 6->A, 7->B, 8->16, 10->C, 12->D, 18->E.
 
-After 19, White has little choice globally. Notably, 
+After 19, White has little choice globally. Notably, when playing 23, there are some global variations: a san-san in the north-east corner, or one in the south-west (less probable). The others are unthinkable. Even though we've played under 25 moves, the variations are very limited. The author has thus tried to confirm the defeat of White in a cartesian manner.
 
 ------------------
 
