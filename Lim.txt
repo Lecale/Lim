@@ -162,6 +162,8 @@ Dia. Extra: It is the opinion of the author: 6->A, 7->B, 8->16, 10->C, 12->D, 18
 
 After 19, White has little choice globally. Notably, when playing 23, there are some global variations: a san-san in the north-east corner, or one in the south-west (less probable). The others are unthinkable. Even though we've played under 25 moves, the variations are very limited. The author has thus tried to confirm the defeat of White in a cartesian manner.
 
+Fig. 3: What is the global situation? The white territory in the south-east corner is well defined, about 35 points. The black territory in the north-east is evaluated at 45-50 points. After 45, the black territory in the south-west corner equals 20 points. The white territory on the west of the board comes to a little more than 15 points after 46. If White takes the initiative in the north of the board, this will make 20 points. For the moment, it is quite fragile. Everywhere, the black groups are robust. Moreover, it is Black to play. The author "scents" that Black is ahead by a 15 points. 41 is the biggest point. If White plays 44 at A, what to do? (Dia. 17).
+
 ------------------
 
 	*	*	*
