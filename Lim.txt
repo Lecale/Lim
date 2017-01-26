@@ -164,6 +164,10 @@ After 19, White has little choice globally. Notably, when playing 23, there are 
 
 Fig. 3: What is the global situation? The white territory in the south-east corner is well defined, about 35 points. The black territory in the north-east is evaluated at 45-50 points. After 45, the black territory in the south-west corner equals 20 points. The white territory on the west of the board comes to a little more than 15 points after 46. If White takes the initiative in the north of the board, this will make 20 points. For the moment, it is quite fragile. Everywhere, the black groups are robust. Moreover, it is Black to play. The author "scents" that Black is ahead by a 15 points. 41 is the biggest point. If White plays 44 at A, what to do? (Dia. 17).
 
+Dia. 17: It is a undesirable gote sequence for White. After having played 6-8, White plays 10.
+
+After 45, 46 is the biggest; in playing that White threatens the black wall.
+
 ------------------
 
 	*	*	*
