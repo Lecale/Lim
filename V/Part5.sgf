@@ -1,5 +1,5 @@
 
-(;GM[1]FF[4]AP[GOWrite:2.3.46]CA[ISO8859-1]SZ[19]ST[2]PB[ ]PM[2]FG[259:Dia. 5.1]PW[ ]GN[ ]
+(;ST[2]FF[4]GM[1]AP[GOWrite:2.3.46]CA[ISO8859-1]SZ[19]PW[ ]PM[2]FG[257:Dia. 5.1]GN[ ]PB[ ]
 ;B[pd]
 ;W[dp]
 ;B[pq]
@@ -33,13 +33,13 @@
 ;W[qc]
 ;B[qd]
 ;W[pb]
-;L[fd]B[sd]
+;B[sd]L[fd]
 )
 (
 ;FG[257:Dia. 5.2]PM[2]GOWRITEFG[includePastDiagram]
 ;B[gd]
 ;W[bf]
-;L[dg]B[dh]
+;B[dh]L[dg]
 )
 
 (
