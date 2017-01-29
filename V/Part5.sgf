@@ -10,6 +10,7 @@
 ;W[cd]
 ;B[de]
 ;W[eb]
+(
 ;B[ce]
 ;W[dj]
 ;B[gd]
@@ -33,4 +34,20 @@
 ;B[qd]
 ;W[pb]
 ;L[fd]B[sd]
+)
+(
+;FG[257:Dia. 5.2]PM[2]GOWRITEFG[includePastDiagram]
+;B[gd]
+;W[bf]
+;L[dg]B[dh]
+)
+
+(
+;FG[257:Dia. 5.3]PM[2]GOWRITEFG[includePastDiagram]
+;B[ce]
+;W[fd]
+;B[ci]
+;W[cm]
+)
+
 )
