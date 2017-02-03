@@ -182,7 +182,9 @@ Dia. 21: This sequence is less brutal than the two before. But the capture of tw
 
 Dia. 22,23: The move 1 is also possible. it would be better to play 16 at 17 (Dia. 24).
 
-Dia. 24: It is not worth playing 25-27; Black can only play 33 ()
+Dia. 24: It is not worth playing 25-27; Black can only play 33 (All this is superfluous for established players, but it has educational value for weaker players, so the author continues).
+
+Fig. 4: For White, there is only one possible chance for victory: 81.
 ------------------
 
 	*	*	*
