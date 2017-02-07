@@ -187,6 +187,12 @@ Dia. 24: It is not worth playing 25-27; Black can only play 33 (All this is supe
 Fig. 4: For White, there is only one possible chance for victory: 81. If he plays it, because of the meanace of White A, the advantage of Black is considerably diminished. But not right now (Dia. 25).
 
 Dia. 25: There is no trouble here.
+
+Looking with a coveting eye the black territory is equivalent to 50 points, White plays 80. It is the moment for Black to play 81. White seeks compensation in playing 82. Black, leaving it, moves to the north-west corner.
+
+Fig. 5: If White plays 4 at 5, Black 5 at 7. 10 is necessary. Black has to right to play 17 at 18, because of the warikomi at A. 21-23 equals 10 points in gote.
+
+If White plays 23, in place of 20, is the advantage of Black diminished? The move doesn't change much (Fig.5b, Fig.6b). Why continue the game? To know by how many points Black wins.
 ------------------
 
 	*	*	*
