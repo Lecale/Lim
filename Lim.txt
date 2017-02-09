@@ -193,9 +193,19 @@ Looking with a coveting eye the black territory is equivalent to 50 points, Whit
 Fig. 5: If White plays 4 at 5, Black 5 at 7. 10 is necessary. Black has to right to play 17 at 18, because of the warikomi at A. 21-23 equals 10 points in gote.
 
 If White plays 23, in place of 20, is the advantage of Black diminished? The move doesn't change much (Fig.5b, Fig.6b). Why continue the game? To know by how many points Black wins.
-------------------
 
-	*	*	*
+The author admits that he is unskilled in yose. The readers should verify by themselves.
+
+Fig. 6: Black leads by 20 points.
+Fig. 5b and Fig. 6b: Black leads by 19 points.
+
+			* * *
+
+Postface (intimate journal)
+
+While I looked at the sequence of 1-18 in figure 1, an idea suddenly came to me, until move 27: "Black is ahead by 15 points, the equivalent of a corner shimari." Without a serious preliminary study of what is happening on the east of the board after move 6 (Dia. 1-10, which the author hopes contain no errors), this intuition would not have appeared. Since that time, I have been obsessed by the need to verify my analysis, thus I am afraid of lacking impartiality and of having preferred Black. I've tried to do my best to neutralize this involuntary favouritism. During move than 45 days, I conceived in excess of 200 diagrams of which I removed the majority.
+
+
 	
 Is Go useful? Manifestly, the theory of gravitation and the discovery of radium were useful for humanity. Go is a block of wood and pebbles. Confucius said "The wise man (junzi) should not play WEichi. He should work for the betterment of humanity. If a sweet little thing (xiao ren) plays Go, she will not have the time to do pointless things". The author dares to say that Go is a cultural parasite. Often he is known for his inane sentiment. He lost his will to continue the study of Go at this level after one and half months. Go is a vain passion. At the end of the day, it may be the same with life.
 
