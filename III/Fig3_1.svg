@@ -1,0 +1,1321 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/SVG/DTD/svg11.dtd" >
+<svg version="1.1" baseProfile="full"  width="319.13385" height="338.51422" viewBox="0 0 229.77638 243.73024" preserveAspectRatio="xMidYMid" xmlns="http://www.w3.org/2000/svg" >
+
+<g lengthAdjust="spacingAndGlyphs" xml:space='preserve' >
+<g  transform="translate(1.19,1.19)" >
+<path d="
+M0.0 0.0
+L0.0 227.39
+L227.39 227.39
+L227.39 0.0
+Z
+" fill="none" fill-rule="nonzero" />
+<line x1="6.54" y1="6.54" x2="6.54" y2="220.84" fill="none" stroke="black" stroke-width="0.87px" stroke-linecap="square" />
+<line x1="18.45" y1="6.54" x2="18.45" y2="220.84" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="30.35" y1="6.54" x2="30.35" y2="220.84" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="42.26" y1="6.54" x2="42.26" y2="220.84" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="54.17" y1="6.54" x2="54.17" y2="220.84" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="66.07" y1="6.54" x2="66.07" y2="220.84" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="77.98" y1="6.54" x2="77.98" y2="220.84" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="89.88" y1="6.54" x2="89.88" y2="220.84" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="101.79" y1="6.54" x2="101.79" y2="220.84" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="113.69" y1="6.54" x2="113.69" y2="220.84" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="125.60" y1="6.54" x2="125.60" y2="220.84" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="137.50" y1="6.54" x2="137.50" y2="220.84" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="149.41" y1="6.54" x2="149.41" y2="220.84" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="161.31" y1="6.54" x2="161.31" y2="220.84" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="173.22" y1="6.54" x2="173.22" y2="220.84" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="185.13" y1="6.54" x2="185.13" y2="220.84" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="197.03" y1="6.54" x2="197.03" y2="220.84" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="208.94" y1="6.54" x2="208.94" y2="220.84" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="220.84" y1="6.54" x2="220.84" y2="220.84" fill="none" stroke="black" stroke-width="0.87px" stroke-linecap="square" />
+<line x1="6.54" y1="6.54" x2="220.84" y2="6.54" fill="none" stroke="black" stroke-width="0.87px" stroke-linecap="square" />
+<line x1="6.54" y1="18.45" x2="220.84" y2="18.45" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="6.54" y1="30.35" x2="220.84" y2="30.35" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="6.54" y1="42.26" x2="220.84" y2="42.26" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="6.54" y1="54.17" x2="220.84" y2="54.17" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="6.54" y1="66.07" x2="220.84" y2="66.07" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="6.54" y1="77.98" x2="220.84" y2="77.98" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="6.54" y1="89.88" x2="220.84" y2="89.88" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="6.54" y1="101.79" x2="220.84" y2="101.79" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="6.54" y1="113.69" x2="220.84" y2="113.69" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="6.54" y1="125.60" x2="220.84" y2="125.60" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="6.54" y1="137.50" x2="220.84" y2="137.50" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="6.54" y1="149.41" x2="220.84" y2="149.41" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="6.54" y1="161.31" x2="220.84" y2="161.31" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="6.54" y1="173.22" x2="220.84" y2="173.22" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="6.54" y1="185.13" x2="220.84" y2="185.13" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="6.54" y1="197.03" x2="220.84" y2="197.03" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="6.54" y1="208.94" x2="220.84" y2="208.94" fill="none" stroke="black" stroke-width="0.25px" stroke-linecap="butt" />
+<line x1="6.54" y1="220.84" x2="220.84" y2="220.84" fill="none" stroke="black" stroke-width="0.87px" stroke-linecap="square" />
+<circle cx="6.54" cy="161.31" r="6.01" fill="black"/>
+<circle cx="6.54" cy="173.22" r="6.01" fill="black"/>
+<circle cx="6.54" cy="185.13" r="5.89" fill="white"/>
+<circle cx="6.54" cy="185.13" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="6.54" cy="208.94" r="5.89" fill="white"/>
+<circle cx="6.54" cy="208.94" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="18.45" cy="113.69" r="5.89" fill="white"/>
+<circle cx="18.45" cy="113.69" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="18.45" cy="137.50" r="6.01" fill="black"/>
+<circle cx="18.45" cy="149.41" r="6.01" fill="black"/>
+<circle cx="18.45" cy="161.31" r="5.89" fill="white"/>
+<circle cx="18.45" cy="161.31" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="18.45" cy="185.13" r="5.89" fill="white"/>
+<circle cx="18.45" cy="185.13" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="18.45" cy="197.03" r="6.01" fill="black"/>
+<circle cx="18.45" cy="208.94" r="6.01" fill="black"/>
+<circle cx="30.35" cy="42.26" r="6.01" fill="black"/>
+<circle cx="30.35" cy="66.07" r="6.01" fill="black"/>
+<circle cx="30.35" cy="101.79" r="6.01" fill="black"/>
+<circle cx="30.35" cy="113.69" r="6.01" fill="black"/>
+<circle cx="30.35" cy="125.60" r="6.01" fill="black"/>
+<circle cx="30.35" cy="149.41" r="6.01" fill="black"/>
+<circle cx="30.35" cy="161.31" r="5.89" fill="white"/>
+<circle cx="30.35" cy="161.31" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="30.35" cy="173.22" r="5.89" fill="white"/>
+<circle cx="30.35" cy="173.22" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="30.35" cy="185.13" r="5.89" fill="white"/>
+<circle cx="30.35" cy="185.13" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="30.35" cy="197.03" r="6.01" fill="black"/>
+<circle cx="30.35" cy="208.94" r="5.89" fill="white"/>
+<circle cx="30.35" cy="208.94" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="42.26" cy="30.35" r="6.01" fill="black"/>
+<circle cx="42.26" cy="42.26" r="5.89" fill="white"/>
+<circle cx="42.26" cy="42.26" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="42.26" cy="54.17" r="6.01" fill="black"/>
+<circle cx="42.26" cy="89.88" r="6.01" fill="black"/>
+<circle cx="42.26" cy="113.69" r="6.01" fill="black"/>
+<circle cx="42.26" cy="125.60" r="5.89" fill="white"/>
+<circle cx="42.26" cy="125.60" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="42.26" cy="137.50" r="6.01" fill="black"/>
+<circle cx="42.26" cy="149.41" r="5.89" fill="white"/>
+<circle cx="42.26" cy="149.41" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="42.26" cy="161.31" r="6.01" fill="black"/>
+<circle cx="42.26" cy="173.22" r="6.01" fill="black"/>
+<circle cx="42.26" cy="185.13" r="6.01" fill="black"/>
+<circle cx="42.26" cy="197.03" r="5.89" fill="white"/>
+<circle cx="42.26" cy="197.03" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="42.26" cy="208.94" r="5.89" fill="white"/>
+<circle cx="42.26" cy="208.94" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="54.17" cy="54.17" r="5.89" fill="white"/>
+<circle cx="54.17" cy="54.17" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="54.17" cy="66.07" r="6.01" fill="black"/>
+<circle cx="54.17" cy="77.98" r="5.89" fill="white"/>
+<circle cx="54.17" cy="77.98" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="54.17" cy="89.88" r="6.01" fill="black"/>
+<circle cx="54.17" cy="101.79" r="6.01" fill="black"/>
+<circle cx="54.17" cy="113.69" r="5.89" fill="white"/>
+<circle cx="54.17" cy="113.69" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="54.17" cy="125.60" r="5.89" fill="white"/>
+<circle cx="54.17" cy="125.60" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="54.17" cy="137.50" r="5.89" fill="white"/>
+<circle cx="54.17" cy="137.50" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="54.17" cy="149.41" r="5.89" fill="white"/>
+<circle cx="54.17" cy="149.41" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="54.17" cy="197.03" r="6.01" fill="black"/>
+<circle cx="54.17" cy="208.94" r="5.89" fill="white"/>
+<circle cx="54.17" cy="208.94" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="66.07" cy="30.35" r="5.89" fill="white"/>
+<circle cx="66.07" cy="30.35" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="66.07" cy="42.26" r="5.89" fill="white"/>
+<circle cx="66.07" cy="42.26" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="66.07" cy="54.17" r="5.89" fill="white"/>
+<circle cx="66.07" cy="54.17" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="66.07" cy="66.07" r="6.01" fill="black"/>
+<circle cx="66.07" cy="77.98" r="6.01" fill="black"/>
+<circle cx="66.07" cy="89.88" r="5.89" fill="white"/>
+<circle cx="66.07" cy="89.88" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="66.07" cy="101.79" r="5.89" fill="white"/>
+<circle cx="66.07" cy="101.79" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="66.07" cy="113.69" r="5.89" fill="white"/>
+<circle cx="66.07" cy="113.69" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="66.07" cy="125.60" r="6.01" fill="black"/>
+<circle cx="66.07" cy="137.50" r="6.01" fill="black"/>
+<circle cx="66.07" cy="161.31" r="6.01" fill="black"/>
+<circle cx="66.07" cy="173.22" r="6.01" fill="black"/>
+<circle cx="66.07" cy="197.03" r="5.89" fill="white"/>
+<circle cx="66.07" cy="197.03" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="77.98" cy="30.35" r="5.89" fill="white"/>
+<circle cx="77.98" cy="30.35" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="77.98" cy="42.26" r="6.01" fill="black"/>
+<circle cx="77.98" cy="54.17" r="6.01" fill="black"/>
+<circle cx="77.98" cy="66.07" r="6.01" fill="black"/>
+<circle cx="77.98" cy="113.69" r="5.89" fill="white"/>
+<circle cx="77.98" cy="113.69" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="77.98" cy="125.60" r="5.89" fill="white"/>
+<circle cx="77.98" cy="125.60" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="77.98" cy="137.50" r="6.01" fill="black"/>
+<circle cx="77.98" cy="161.31" r="6.01" fill="black"/>
+<circle cx="77.98" cy="173.22" r="6.01" fill="black"/>
+<circle cx="77.98" cy="185.13" r="6.01" fill="black"/>
+<circle cx="77.98" cy="197.03" r="5.89" fill="white"/>
+<circle cx="77.98" cy="197.03" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="77.98" cy="208.94" r="6.01" fill="black"/>
+<circle cx="89.88" cy="30.35" r="5.89" fill="white"/>
+<circle cx="89.88" cy="30.35" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="89.88" cy="42.26" r="6.01" fill="black"/>
+<circle cx="89.88" cy="66.07" r="5.89" fill="white"/>
+<circle cx="89.88" cy="66.07" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="89.88" cy="89.88" r="5.89" fill="white"/>
+<circle cx="89.88" cy="89.88" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="89.88" cy="125.60" r="6.01" fill="black"/>
+<circle cx="89.88" cy="137.50" r="5.89" fill="white"/>
+<circle cx="89.88" cy="137.50" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="89.88" cy="149.41" r="5.89" fill="white"/>
+<circle cx="89.88" cy="149.41" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="89.88" cy="161.31" r="6.01" fill="black"/>
+<circle cx="89.88" cy="173.22" r="5.89" fill="white"/>
+<circle cx="89.88" cy="173.22" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="89.88" cy="185.13" r="5.89" fill="white"/>
+<circle cx="89.88" cy="185.13" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="89.88" cy="197.03" r="6.01" fill="black"/>
+<circle cx="89.88" cy="208.94" r="5.89" fill="white"/>
+<circle cx="89.88" cy="208.94" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="101.79" cy="18.45" r="5.89" fill="white"/>
+<circle cx="101.79" cy="18.45" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="101.79" cy="30.35" r="6.01" fill="black"/>
+<circle cx="101.79" cy="42.26" r="6.01" fill="black"/>
+<circle cx="101.79" cy="54.17" r="6.01" fill="black"/>
+<circle cx="101.79" cy="66.07" r="6.01" fill="black"/>
+<circle cx="101.79" cy="77.98" r="5.89" fill="white"/>
+<circle cx="101.79" cy="77.98" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="101.79" cy="113.69" r="6.01" fill="black"/>
+<circle cx="101.79" cy="125.60" r="6.01" fill="black"/>
+<circle cx="101.79" cy="137.50" r="5.89" fill="white"/>
+<circle cx="101.79" cy="137.50" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="101.79" cy="161.31" r="5.89" fill="white"/>
+<circle cx="101.79" cy="161.31" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="101.79" cy="173.22" r="6.01" fill="black"/>
+<circle cx="101.79" cy="185.13" r="6.01" fill="black"/>
+<circle cx="101.79" cy="197.03" r="6.01" fill="black"/>
+<circle cx="101.79" cy="208.94" r="5.89" fill="white"/>
+<circle cx="101.79" cy="208.94" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="113.69" cy="18.45" r="5.89" fill="white"/>
+<circle cx="113.69" cy="18.45" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="113.69" cy="30.35" r="5.89" fill="white"/>
+<circle cx="113.69" cy="30.35" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="113.69" cy="42.26" r="1.27" fill="black"/>
+<circle cx="113.69" cy="54.17" r="5.89" fill="white"/>
+<circle cx="113.69" cy="54.17" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="113.69" cy="66.07" r="6.01" fill="black"/>
+<circle cx="113.69" cy="77.98" r="6.01" fill="black"/>
+<circle cx="113.69" cy="89.88" r="5.89" fill="white"/>
+<circle cx="113.69" cy="89.88" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="113.69" cy="113.69" r="6.01" fill="black"/>
+<circle cx="113.69" cy="125.60" r="5.89" fill="white"/>
+<circle cx="113.69" cy="125.60" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="113.69" cy="137.50" r="6.01" fill="black"/>
+<circle cx="113.69" cy="149.41" r="5.89" fill="white"/>
+<circle cx="113.69" cy="149.41" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="113.69" cy="185.13" r="6.01" fill="black"/>
+<circle cx="113.69" cy="197.03" r="5.89" fill="white"/>
+<circle cx="113.69" cy="197.03" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="125.60" cy="18.45" r="6.01" fill="black"/>
+<circle cx="125.60" cy="42.26" r="5.89" fill="white"/>
+<circle cx="125.60" cy="42.26" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="125.60" cy="54.17" r="5.89" fill="white"/>
+<circle cx="125.60" cy="54.17" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="125.60" cy="66.07" r="6.01" fill="black"/>
+<circle cx="125.60" cy="77.98" r="5.89" fill="white"/>
+<circle cx="125.60" cy="77.98" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="125.60" cy="113.69" r="6.01" fill="black"/>
+<circle cx="125.60" cy="125.60" r="5.89" fill="white"/>
+<circle cx="125.60" cy="125.60" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="125.60" cy="137.50" r="6.01" fill="black"/>
+<circle cx="125.60" cy="149.41" r="5.89" fill="white"/>
+<circle cx="125.60" cy="149.41" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="125.60" cy="173.22" r="5.89" fill="white"/>
+<circle cx="125.60" cy="173.22" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="125.60" cy="185.13" r="5.89" fill="white"/>
+<circle cx="125.60" cy="185.13" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="125.60" cy="197.03" r="5.89" fill="white"/>
+<circle cx="125.60" cy="197.03" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="137.50" cy="18.45" r="6.01" fill="black"/>
+<circle cx="137.50" cy="30.35" r="5.89" fill="white"/>
+<circle cx="137.50" cy="30.35" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="137.50" cy="66.07" r="5.89" fill="white"/>
+<circle cx="137.50" cy="66.07" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="137.50" cy="77.98" r="5.89" fill="white"/>
+<circle cx="137.50" cy="77.98" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="137.50" cy="89.88" r="5.89" fill="white"/>
+<circle cx="137.50" cy="89.88" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="137.50" cy="113.69" r="6.01" fill="black"/>
+<circle cx="137.50" cy="125.60" r="5.89" fill="white"/>
+<circle cx="137.50" cy="125.60" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="137.50" cy="137.50" r="6.01" fill="black"/>
+<circle cx="149.41" cy="30.35" r="5.89" fill="white"/>
+<circle cx="149.41" cy="30.35" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="149.41" cy="42.26" r="6.01" fill="black"/>
+<circle cx="149.41" cy="54.17" r="5.89" fill="white"/>
+<circle cx="149.41" cy="54.17" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="149.41" cy="77.98" r="6.01" fill="black"/>
+<circle cx="149.41" cy="89.88" r="5.89" fill="white"/>
+<circle cx="149.41" cy="89.88" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="149.41" cy="113.69" r="6.01" fill="black"/>
+<circle cx="149.41" cy="125.60" r="5.89" fill="white"/>
+<circle cx="149.41" cy="125.60" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="149.41" cy="137.50" r="6.01" fill="black"/>
+<circle cx="161.31" cy="18.45" r="5.89" fill="white"/>
+<circle cx="161.31" cy="18.45" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="161.31" cy="30.35" r="5.89" fill="white"/>
+<circle cx="161.31" cy="30.35" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="161.31" cy="42.26" r="6.01" fill="black"/>
+<circle cx="161.31" cy="54.17" r="5.89" fill="white"/>
+<circle cx="161.31" cy="54.17" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="161.31" cy="77.98" r="6.01" fill="black"/>
+<circle cx="161.31" cy="101.79" r="6.01" fill="black"/>
+<circle cx="161.31" cy="113.69" r="6.01" fill="black"/>
+<circle cx="161.31" cy="125.60" r="5.89" fill="white"/>
+<circle cx="161.31" cy="125.60" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="161.31" cy="137.50" r="6.01" fill="black"/>
+<circle cx="161.31" cy="197.03" r="6.01" fill="black"/>
+<circle cx="161.31" cy="208.94" r="6.01" fill="black"/>
+<circle cx="173.22" cy="18.45" r="6.01" fill="black"/>
+<circle cx="173.22" cy="54.17" r="6.01" fill="black"/>
+<circle cx="173.22" cy="77.98" r="6.01" fill="black"/>
+<circle cx="173.22" cy="89.88" r="6.01" fill="black"/>
+<circle cx="173.22" cy="101.79" r="6.01" fill="black"/>
+<circle cx="173.22" cy="113.69" r="5.89" fill="white"/>
+<circle cx="173.22" cy="113.69" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="173.22" cy="125.60" r="5.89" fill="white"/>
+<circle cx="173.22" cy="125.60" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="173.22" cy="161.31" r="6.01" fill="black"/>
+<circle cx="173.22" cy="185.13" r="6.01" fill="black"/>
+<circle cx="173.22" cy="208.94" r="5.89" fill="white"/>
+<circle cx="173.22" cy="208.94" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="185.13" cy="30.35" r="6.01" fill="black"/>
+<circle cx="185.13" cy="42.26" r="6.01" fill="black"/>
+<circle cx="185.13" cy="54.17" r="6.01" fill="black"/>
+<circle cx="185.13" cy="66.07" r="5.89" fill="white"/>
+<circle cx="185.13" cy="66.07" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="185.13" cy="77.98" r="6.01" fill="black"/>
+<circle cx="185.13" cy="101.79" r="6.01" fill="black"/>
+<circle cx="185.13" cy="113.69" r="1.27" fill="black"/>
+<circle cx="185.13" cy="125.60" r="5.89" fill="white"/>
+<circle cx="185.13" cy="125.60" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="185.13" cy="161.31" r="5.89" fill="white"/>
+<circle cx="185.13" cy="161.31" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="185.13" cy="173.22" r="5.89" fill="white"/>
+<circle cx="185.13" cy="173.22" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="185.13" cy="185.13" r="6.01" fill="black"/>
+<circle cx="185.13" cy="197.03" r="5.89" fill="white"/>
+<circle cx="185.13" cy="197.03" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="197.03" cy="18.45" r="6.01" fill="black"/>
+<circle cx="197.03" cy="30.35" r="5.89" fill="white"/>
+<circle cx="197.03" cy="30.35" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="197.03" cy="42.26" r="5.89" fill="white"/>
+<circle cx="197.03" cy="42.26" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="197.03" cy="54.17" r="6.01" fill="black"/>
+<circle cx="197.03" cy="66.07" r="6.01" fill="black"/>
+<circle cx="197.03" cy="77.98" r="5.89" fill="white"/>
+<circle cx="197.03" cy="77.98" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="197.03" cy="89.88" r="6.01" fill="black"/>
+<circle cx="197.03" cy="101.79" r="5.89" fill="white"/>
+<circle cx="197.03" cy="101.79" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="197.03" cy="113.69" r="5.89" fill="white"/>
+<circle cx="197.03" cy="113.69" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="197.03" cy="161.31" r="5.89" fill="white"/>
+<circle cx="197.03" cy="161.31" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="197.03" cy="173.22" r="6.01" fill="black"/>
+<circle cx="197.03" cy="185.13" r="6.01" fill="black"/>
+<circle cx="197.03" cy="197.03" r="5.89" fill="white"/>
+<circle cx="197.03" cy="197.03" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="208.94" cy="6.54" r="6.01" fill="black"/>
+<circle cx="208.94" cy="18.45" r="5.89" fill="white"/>
+<circle cx="208.94" cy="18.45" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="208.94" cy="30.35" r="5.89" fill="white"/>
+<circle cx="208.94" cy="30.35" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="208.94" cy="54.17" r="5.89" fill="white"/>
+<circle cx="208.94" cy="54.17" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="208.94" cy="66.07" r="5.89" fill="white"/>
+<circle cx="208.94" cy="66.07" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="208.94" cy="77.98" r="5.89" fill="white"/>
+<circle cx="208.94" cy="77.98" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="208.94" cy="89.88" r="6.01" fill="black"/>
+<circle cx="208.94" cy="101.79" r="6.01" fill="black"/>
+<circle cx="208.94" cy="113.69" r="5.89" fill="white"/>
+<circle cx="208.94" cy="113.69" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="208.94" cy="149.41" r="5.89" fill="white"/>
+<circle cx="208.94" cy="149.41" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="208.94" cy="161.31" r="6.01" fill="black"/>
+<circle cx="208.94" cy="173.22" r="6.01" fill="black"/>
+<circle cx="208.94" cy="197.03" r="6.01" fill="black"/>
+<circle cx="208.94" cy="208.94" r="5.89" fill="white"/>
+<circle cx="208.94" cy="208.94" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="220.84" cy="89.88" r="5.89" fill="white"/>
+<circle cx="220.84" cy="89.88" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="220.84" cy="101.79" r="5.89" fill="white"/>
+<circle cx="220.84" cy="101.79" r="5.89" fill="none" stroke="black" stroke-width="0.25px"/>
+<circle cx="220.84" cy="185.13" r="6.01" fill="black"/>
+<circle cx="220.84" cy="208.94" r="6.01" fill="black"/>
+<path d="
+M76.29 157.60
+L76.26 157.70
+C76.17 157.99 76.00 158.30 75.77 158.61
+C75.54 158.93 75.27 159.19 74.96 159.41
+L74.90 159.45
+L74.90 159.53
+L74.90 160.37
+L74.90 160.61
+L75.11 160.50
+C75.31 160.39 75.52 160.23 75.75 160.02
+C75.86 159.92 75.96 159.82 76.05 159.72
+L76.05 159.72
+L76.05 164.89
+L76.05 165.03
+L76.91 165.03
+L76.91 164.89
+L76.91 157.74
+L76.91 157.60
+Z
+M79.92 157.60
+L79.89 157.70
+C79.80 157.99 79.63 158.30 79.40 158.61
+C79.17 158.93 78.90 159.19 78.59 159.41
+L78.53 159.45
+L78.53 159.53
+L78.53 160.37
+L78.53 160.61
+L78.74 160.50
+C78.94 160.39 79.15 160.23 79.39 160.02
+C79.49 159.92 79.59 159.82 79.68 159.72
+L79.68 159.72
+L79.68 164.89
+L79.68 165.03
+L80.54 165.03
+L80.54 164.89
+L80.54 157.74
+L80.54 157.60
+Z
+" fill="white" fill-rule="nonzero" />
+<path d="
+M76.29 169.44
+L76.26 169.54
+C76.17 169.83 76.00 170.14 75.77 170.45
+C75.54 170.77 75.27 171.04 74.96 171.25
+L74.90 171.30
+L74.90 171.37
+L74.90 172.21
+L74.90 172.46
+L75.11 172.34
+C75.31 172.23 75.52 172.07 75.75 171.86
+C75.86 171.76 75.96 171.66 76.05 171.57
+L76.05 171.57
+L76.05 176.73
+L76.05 176.87
+L76.91 176.87
+L76.91 176.73
+L76.91 169.58
+L76.91 169.44
+Z
+M79.71 169.44
+C79.30 169.44 78.96 169.61 78.68 169.96
+C78.41 170.29 78.23 170.77 78.16 171.41
+L78.14 171.53
+L78.26 171.56
+L78.83 171.72
+L78.99 171.76
+L79.01 171.60
+C79.05 171.19 79.14 170.89 79.27 170.70
+C79.40 170.53 79.54 170.44 79.71 170.44
+C79.72 170.44 79.72 170.44 79.72 170.44
+C79.72 170.44 79.72 170.44 79.72 170.44
+C79.88 170.44 80.03 170.52 80.14 170.69
+C80.27 170.87 80.34 171.11 80.34 171.41
+C80.34 171.74 80.26 172.00 80.10 172.19
+C79.96 172.37 79.77 172.46 79.53 172.46
+L79.53 172.46
+L79.45 172.45
+L79.31 172.44
+L79.30 172.58
+L79.23 173.35
+L79.21 173.58
+L79.42 173.49
+C79.57 173.43 79.68 173.41 79.78 173.41
+C79.78 173.41 79.78 173.41 79.78 173.41
+C79.78 173.41 79.78 173.41 79.78 173.41
+C79.99 173.41 80.16 173.51 80.31 173.72
+C80.47 173.95 80.55 174.26 80.55 174.64
+C80.55 175.05 80.46 175.39 80.28 175.64
+C80.12 175.88 79.94 175.99 79.72 175.99
+C79.72 175.99 79.72 175.99 79.72 175.99
+C79.72 175.99 79.72 175.99 79.72 175.99
+C79.53 175.99 79.37 175.90 79.25 175.71
+C79.11 175.49 79.01 175.16 78.96 174.72
+L78.94 174.57
+L78.79 174.60
+L78.21 174.71
+L78.09 174.74
+L78.10 174.86
+C78.14 175.50 78.31 176.02 78.60 176.40
+C78.91 176.80 79.28 177.00 79.73 177.00
+C80.21 177.00 80.61 176.77 80.95 176.32
+C81.28 175.88 81.44 175.31 81.44 174.63
+C81.44 174.31 81.40 174.02 81.32 173.75
+C81.24 173.49 81.13 173.27 81.00 173.11
+C80.91 173.00 80.81 172.91 80.69 172.84
+L80.69 172.84
+C80.83 172.70 80.94 172.54 81.03 172.35
+C81.15 172.08 81.21 171.77 81.21 171.43
+C81.21 170.86 81.07 170.40 80.79 170.02
+C80.49 169.63 80.13 169.44 79.71 169.44
+Z
+" fill="white" fill-rule="nonzero" />
+<path d="
+M91.64 146.50
+C91.92 146.50 92.15 146.69 92.33 147.08
+C92.51 147.48 92.60 148.25 92.60 149.41
+C92.60 150.56 92.51 151.33 92.33 151.73
+C92.16 152.13 91.94 152.33 91.68 152.33
+C91.40 152.33 91.17 152.13 91.00 151.74
+C90.82 151.34 90.73 150.57 90.73 149.41
+C90.73 148.27 90.82 147.49 90.99 147.09
+C91.17 146.70 91.38 146.50 91.64 146.50
+Z
+M88.30 145.77
+C88.20 146.08 88.03 146.40 87.79 146.73
+C87.55 147.06 87.27 147.33 86.95 147.56
+L86.95 148.41
+C87.14 148.30 87.34 148.15 87.57 147.95
+C87.79 147.74 87.97 147.55 88.10 147.35
+L88.10 152.92
+L88.67 152.92
+L88.67 145.77
+Z
+M91.67 145.77
+C91.17 145.77 90.79 146.08 90.53 146.70
+C90.27 147.31 90.14 148.22 90.14 149.41
+C90.14 150.75 90.28 151.69 90.57 152.23
+C90.85 152.77 91.22 153.05 91.66 153.05
+C92.17 153.05 92.55 152.74 92.80 152.12
+C93.06 151.50 93.19 150.60 93.19 149.41
+C93.19 148.09 93.03 147.12 92.72 146.52
+C92.47 146.02 92.12 145.77 91.67 145.77
+Z
+" fill="black" fill-rule="nonzero" />
+<path d="
+M101.80 157.78
+C101.26 157.78 100.82 157.95 100.49 158.29
+C100.16 158.63 99.97 159.14 99.92 159.82
+L100.65 159.91
+C100.65 159.45 100.76 159.11 100.97 158.86
+C101.18 158.62 101.45 158.50 101.78 158.50
+C102.08 158.50 102.34 158.61 102.55 158.84
+C102.76 159.06 102.87 159.35 102.87 159.71
+C102.87 160.02 102.76 160.36 102.56 160.72
+C102.36 161.08 101.92 161.59 101.26 162.25
+C100.69 162.81 100.30 163.30 100.09 163.72
+C99.88 164.14 99.78 164.51 99.79 164.85
+L103.60 164.85
+L103.60 164.02
+L100.77 164.02
+C100.85 163.86 100.95 163.70 101.07 163.55
+C101.19 163.39 101.47 163.10 101.89 162.66
+C102.55 161.98 103.00 161.43 103.24 161.02
+C103.47 160.61 103.59 160.18 103.59 159.73
+C103.59 159.23 103.44 158.77 103.14 158.38
+C102.84 157.98 102.39 157.78 101.80 157.78
+Z
+" fill="black" fill-rule="nonzero" />
+<path d="
+M127.70 171.08
+L127.70 174.29
+L126.24 174.29
+L127.70 171.08
+Z
+M124.02 169.64
+C123.92 169.96 123.75 170.27 123.51 170.60
+C123.26 170.93 122.98 171.21 122.67 171.43
+L122.67 172.28
+C122.85 172.17 123.06 172.02 123.28 171.82
+C123.50 171.62 123.68 171.42 123.81 171.22
+L123.81 176.80
+L124.39 176.80
+L124.39 169.64
+Z
+M127.81 169.67
+L125.67 174.29
+L125.67 175.09
+L127.70 175.09
+L127.70 176.80
+L128.27 176.80
+L128.27 175.09
+L128.91 175.09
+L128.91 174.29
+L128.27 174.29
+L128.27 169.67
+Z
+" fill="black" fill-rule="nonzero" />
+<path d="
+M124.02 181.55
+C123.92 181.86 123.75 182.18 123.51 182.51
+C123.26 182.83 122.98 183.11 122.67 183.34
+L122.67 184.18
+C122.85 184.08 123.06 183.93 123.28 183.72
+C123.50 183.52 123.68 183.32 123.81 183.13
+L123.81 188.70
+L124.39 188.70
+L124.39 181.55
+Z
+M127.42 181.55
+C126.99 181.55 126.63 181.72 126.37 182.07
+C126.10 182.41 125.94 182.93 125.90 183.61
+L126.49 183.70
+C126.49 183.24 126.58 182.89 126.75 182.64
+C126.92 182.40 127.14 182.27 127.41 182.27
+C127.65 182.27 127.86 182.39 128.03 182.62
+C128.20 182.84 128.29 183.14 128.29 183.50
+C128.29 183.82 128.20 184.16 128.04 184.52
+C127.87 184.89 127.52 185.40 126.99 186.07
+C126.53 186.64 126.21 187.14 126.04 187.56
+C125.87 187.98 125.78 188.36 125.79 188.70
+L128.88 188.70
+L128.88 187.86
+L126.59 187.86
+C126.65 187.70 126.73 187.54 126.83 187.38
+C126.93 187.23 127.15 186.93 127.49 186.49
+C128.03 185.80 128.40 185.24 128.59 184.83
+C128.78 184.41 128.87 183.98 128.87 183.52
+C128.87 183.01 128.75 182.55 128.51 182.15
+C128.26 181.75 127.90 181.55 127.42 181.55
+Z
+" fill="black" fill-rule="nonzero" />
+<path d="
+M137.70 133.83
+L137.66 133.92
+C137.54 134.21 137.34 134.51 137.06 134.82
+C136.77 135.13 136.43 135.40 136.06 135.61
+L135.98 135.66
+L135.98 135.74
+L135.98 136.57
+L135.98 136.79
+L136.18 136.70
+C136.42 136.60 136.68 136.44 136.97 136.23
+C137.13 136.12 137.27 136.00 137.40 135.88
+L137.40 135.88
+L137.40 141.04
+L137.40 141.18
+L138.39 141.18
+L138.39 141.04
+L138.39 133.97
+L138.39 133.83
+Z
+" fill="white" fill-rule="nonzero" />
+<path d="
+M150.62 136.39
+L150.62 136.39
+L150.62 136.39
+C150.62 136.39 150.62 136.39 150.62 136.39
+Z
+M147.72 133.73
+L147.69 133.82
+C147.60 134.12 147.44 134.43 147.20 134.74
+C146.97 135.06 146.70 135.32 146.40 135.54
+L146.34 135.58
+L146.34 135.66
+L146.34 136.50
+L146.34 136.74
+L146.55 136.62
+C146.74 136.52 146.96 136.36 147.19 136.15
+C147.30 136.05 147.40 135.95 147.48 135.85
+L147.48 135.85
+L147.48 141.02
+L147.48 141.16
+L148.34 141.16
+L148.34 141.02
+L148.34 133.87
+L148.34 133.73
+Z
+M150.10 133.85
+L150.08 133.98
+L149.63 137.63
+L149.61 137.77
+L149.74 137.79
+L150.28 137.90
+L150.40 137.92
+L150.44 137.81
+C150.52 137.62 150.63 137.47 150.76 137.36
+C150.88 137.26 151.02 137.21 151.16 137.21
+C151.16 137.21 151.16 137.21 151.16 137.21
+C151.16 137.21 151.16 137.21 151.16 137.21
+C151.40 137.21 151.60 137.33 151.76 137.57
+C151.93 137.82 152.02 138.19 152.02 138.67
+C152.02 139.19 151.93 139.59 151.75 139.88
+C151.58 140.15 151.38 140.28 151.17 140.28
+C151.16 140.28 151.16 140.28 151.16 140.28
+C151.16 140.28 151.16 140.28 151.16 140.28
+C150.99 140.28 150.84 140.19 150.70 140.00
+C150.55 139.80 150.46 139.49 150.41 139.06
+L150.40 138.92
+L150.25 138.93
+L149.65 139.01
+L149.52 139.03
+L149.53 139.16
+C149.57 139.81 149.74 140.33 150.03 140.70
+C150.34 141.09 150.72 141.28 151.17 141.28
+C151.71 141.28 152.14 141.01 152.46 140.47
+C152.76 139.95 152.91 139.33 152.91 138.60
+C152.91 137.87 152.76 137.28 152.45 136.84
+C152.13 136.38 151.75 136.16 151.31 136.15
+C151.07 136.16 150.84 136.23 150.62 136.39
+L150.62 136.39
+L150.81 134.97
+L152.69 134.97
+L152.69 134.83
+L152.69 133.99
+L152.69 133.85
+Z
+" fill="white" fill-rule="nonzero" />
+<path d="
+M161.32 18.12
+C161.64 18.12 161.90 18.26 162.12 18.53
+C162.34 18.81 162.45 19.19 162.45 19.69
+C162.45 20.20 162.34 20.60 162.12 20.89
+C161.90 21.18 161.65 21.33 161.37 21.33
+C161.06 21.33 160.78 21.18 160.54 20.87
+C160.30 20.56 160.18 20.15 160.18 19.64
+C160.18 19.17 160.29 18.80 160.52 18.53
+C160.75 18.26 161.02 18.12 161.32 18.12
+Z
+M161.43 14.86
+C160.83 14.86 160.33 15.15 159.94 15.72
+C159.55 16.30 159.36 17.27 159.36 18.63
+C159.36 19.85 159.55 20.73 159.93 21.25
+C160.31 21.78 160.79 22.04 161.37 22.04
+C161.69 22.04 161.99 21.95 162.26 21.77
+C162.52 21.58 162.74 21.30 162.92 20.92
+C163.09 20.54 163.17 20.11 163.17 19.64
+C163.17 18.95 163.00 18.39 162.66 17.98
+C162.32 17.56 161.92 17.36 161.46 17.36
+C161.19 17.36 160.93 17.44 160.68 17.59
+C160.43 17.75 160.23 17.99 160.07 18.29
+C160.07 17.43 160.18 16.78 160.39 16.33
+C160.64 15.82 160.97 15.57 161.39 15.57
+C161.65 15.57 161.88 15.68 162.07 15.90
+C162.20 16.06 162.30 16.31 162.37 16.68
+L163.07 16.61
+C163.01 16.04 162.83 15.60 162.53 15.31
+C162.24 15.01 161.87 14.86 161.43 14.86
+Z
+" fill="black" fill-rule="nonzero" />
+<path d="
+M161.29 134.77
+C161.29 134.77 161.29 134.77 161.30 134.77
+C161.30 134.77 161.30 134.77 161.30 134.77
+C161.54 134.77 161.76 134.89 161.96 135.15
+C162.16 135.41 162.26 135.77 162.26 136.24
+C162.26 136.72 162.16 137.08 161.97 137.33
+C161.78 137.57 161.55 137.69 161.28 137.69
+C161.28 137.69 161.28 137.69 161.28 137.69
+C161.28 137.69 161.28 137.69 161.28 137.69
+C161.01 137.69 160.77 137.57 160.57 137.33
+C160.37 137.08 160.27 136.74 160.27 136.32
+C160.27 135.84 160.38 135.46 160.59 135.17
+C160.80 134.90 161.04 134.77 161.29 134.77
+Z
+M161.21 133.77
+C160.66 133.77 160.20 134.00 159.82 134.46
+C159.44 134.91 159.25 135.52 159.25 136.29
+C159.25 137.03 159.43 137.63 159.80 138.06
+C160.17 138.51 160.61 138.73 161.12 138.73
+C161.41 138.73 161.69 138.64 161.96 138.46
+C162.10 138.37 162.22 138.26 162.33 138.14
+L162.33 138.14
+C162.31 138.55 162.25 138.92 162.14 139.24
+C162.02 139.63 161.87 139.89 161.70 140.03
+C161.53 140.17 161.35 140.24 161.14 140.24
+C161.14 140.24 161.14 140.24 161.14 140.24
+C161.14 140.24 161.14 140.24 161.14 140.24
+C160.92 140.24 160.74 140.17 160.61 140.01
+C160.47 139.85 160.37 139.60 160.32 139.25
+L160.30 139.12
+L160.17 139.13
+L159.48 139.21
+L159.35 139.22
+L159.36 139.36
+C159.42 139.96 159.61 140.42 159.93 140.75
+C160.25 141.07 160.65 141.24 161.13 141.24
+C161.55 141.24 161.93 141.10 162.26 140.84
+C162.60 140.57 162.86 140.16 163.05 139.60
+C163.24 139.05 163.33 138.29 163.33 137.30
+C163.33 136.42 163.25 135.74 163.07 135.26
+C162.89 134.78 162.64 134.41 162.30 134.15
+C161.97 133.90 161.60 133.77 161.21 133.77
+Z
+" fill="white" fill-rule="nonzero" />
+<path d="
+M172.44 17.32
+L172.44 17.32
+L172.44 17.32
+C172.44 17.32 172.44 17.32 172.44 17.32
+Z
+M171.87 14.78
+L171.85 14.90
+L171.29 18.51
+L171.26 18.65
+L171.40 18.67
+L172.07 18.78
+L172.17 18.79
+L172.22 18.70
+C172.32 18.51 172.45 18.36 172.61 18.26
+C172.78 18.15 172.95 18.10 173.14 18.10
+C173.14 18.10 173.14 18.10 173.14 18.10
+C173.14 18.10 173.14 18.10 173.14 18.10
+C173.45 18.10 173.71 18.22 173.92 18.46
+C174.13 18.71 174.24 19.07 174.24 19.54
+C174.24 20.04 174.12 20.43 173.90 20.72
+C173.69 20.99 173.44 21.13 173.15 21.13
+C173.15 21.13 173.14 21.13 173.14 21.13
+C173.14 21.13 173.14 21.13 173.14 21.13
+C172.91 21.13 172.71 21.03 172.54 20.84
+C172.36 20.65 172.24 20.34 172.18 19.92
+L172.17 19.78
+L172.03 19.80
+L171.29 19.87
+L171.15 19.89
+L171.16 20.03
+C171.21 20.68 171.42 21.19 171.79 21.56
+C172.16 21.93 172.61 22.12 173.15 22.12
+C173.80 22.12 174.32 21.85 174.71 21.33
+C175.08 20.81 175.27 20.19 175.27 19.47
+C175.27 18.74 175.08 18.16 174.70 17.72
+C174.31 17.27 173.86 17.05 173.33 17.05
+C173.02 17.05 172.72 17.14 172.44 17.32
+L172.44 17.32
+L172.67 15.89
+L174.99 15.89
+L174.99 15.74
+L174.99 14.92
+L174.99 14.78
+Z
+" fill="white" fill-rule="nonzero" />
+<path d="
+M175.04 125.27
+C175.30 125.27 175.51 125.40 175.69 125.68
+C175.86 125.96 175.95 126.35 175.95 126.86
+C175.95 127.37 175.86 127.78 175.69 128.07
+C175.51 128.37 175.31 128.52 175.08 128.52
+C174.83 128.52 174.60 128.36 174.41 128.05
+C174.21 127.73 174.11 127.32 174.11 126.81
+C174.11 126.33 174.21 125.96 174.39 125.68
+C174.58 125.40 174.79 125.27 175.04 125.27
+Z
+M171.64 121.96
+C171.54 122.27 171.37 122.59 171.13 122.92
+C170.88 123.25 170.61 123.52 170.29 123.75
+L170.29 124.59
+C170.48 124.49 170.68 124.34 170.90 124.14
+C171.13 123.93 171.30 123.73 171.44 123.54
+L171.44 129.11
+L172.01 129.11
+L172.01 121.96
+Z
+M175.13 121.96
+C174.64 121.96 174.24 122.25 173.92 122.84
+C173.61 123.42 173.45 124.40 173.45 125.78
+C173.45 127.02 173.61 127.91 173.91 128.44
+C174.22 128.97 174.61 129.23 175.08 129.23
+C175.34 129.23 175.58 129.14 175.80 128.96
+C176.01 128.77 176.19 128.49 176.33 128.10
+C176.47 127.71 176.54 127.28 176.54 126.81
+C176.54 126.10 176.40 125.54 176.13 125.12
+C175.85 124.70 175.53 124.49 175.16 124.49
+C174.93 124.49 174.72 124.57 174.52 124.73
+C174.32 124.89 174.16 125.13 174.02 125.44
+C174.03 124.57 174.12 123.91 174.29 123.46
+C174.49 122.94 174.76 122.68 175.09 122.68
+C175.31 122.68 175.49 122.79 175.65 123.02
+C175.75 123.18 175.83 123.44 175.89 123.80
+L176.46 123.73
+C176.41 123.16 176.26 122.72 176.02 122.42
+C175.78 122.11 175.48 121.96 175.13 121.96
+Z
+" fill="black" fill-rule="nonzero" />
+<path d="
+M196.93 14.71
+C196.45 14.71 196.04 14.88 195.69 15.21
+C195.36 15.54 195.14 16.02 195.05 16.66
+L195.03 16.79
+L195.16 16.82
+L195.86 16.97
+L196.02 17.00
+L196.03 16.85
+C196.08 16.45 196.19 16.16 196.36 15.97
+C196.52 15.79 196.71 15.71 196.94 15.71
+C196.94 15.71 196.94 15.71 196.94 15.71
+C196.94 15.71 196.94 15.71 196.94 15.71
+C197.16 15.71 197.35 15.79 197.50 15.96
+C197.66 16.13 197.74 16.37 197.74 16.66
+C197.74 16.98 197.64 17.23 197.45 17.42
+C197.27 17.60 197.02 17.70 196.71 17.70
+L196.71 17.70
+L196.61 17.69
+L196.47 17.68
+L196.45 17.81
+L196.37 18.57
+L196.35 18.79
+L196.56 18.72
+C196.74 18.66 196.89 18.63 197.01 18.63
+C197.01 18.63 197.01 18.63 197.01 18.63
+C197.01 18.63 197.01 18.63 197.01 18.63
+C197.29 18.63 197.52 18.74 197.71 18.96
+C197.90 19.18 198.00 19.48 198.00 19.85
+C198.00 20.25 197.89 20.58 197.68 20.83
+C197.47 21.07 197.23 21.19 196.95 21.19
+C196.95 21.19 196.95 21.19 196.94 21.19
+C196.94 21.19 196.94 21.19 196.94 21.19
+C196.69 21.19 196.48 21.09 196.33 20.89
+C196.16 20.68 196.04 20.36 195.97 19.92
+L195.94 19.78
+L195.80 19.81
+L195.09 19.92
+L194.96 19.94
+L194.98 20.07
+C195.03 20.71 195.23 21.22 195.60 21.60
+C195.97 21.99 196.42 22.18 196.95 22.18
+C197.53 22.18 198.02 21.96 198.43 21.52
+C198.83 21.08 199.03 20.52 199.04 19.84
+C199.04 19.52 198.99 19.23 198.89 18.96
+C198.79 18.70 198.65 18.49 198.49 18.32
+C198.38 18.22 198.26 18.14 198.12 18.07
+L198.12 18.07
+C198.29 17.94 198.42 17.78 198.52 17.60
+C198.68 17.33 198.75 17.02 198.75 16.68
+C198.75 16.12 198.58 15.65 198.22 15.27
+C197.87 14.90 197.44 14.71 196.93 14.71
+Z
+" fill="white" fill-rule="nonzero" />
+<path d="
+M206.92 2.93
+L206.92 3.07
+L206.92 3.90
+L206.92 4.04
+L209.62 4.04
+C209.31 4.50 209.02 5.04 208.75 5.66
+C208.44 6.38 208.19 7.13 208.01 7.93
+C207.83 8.72 207.74 9.41 207.73 10.01
+L207.73 10.16
+L208.60 10.16
+L208.73 10.16
+L208.74 10.02
+C208.81 8.90 209.05 7.76 209.46 6.62
+C209.88 5.47 210.36 4.54 210.91 3.83
+L210.94 3.79
+L210.94 3.74
+L210.94 3.07
+L210.94 2.93
+Z
+" fill="white" fill-rule="nonzero" />
+<path d="
+M209.29 16.32
+L209.29 19.49
+L207.48 19.49
+L209.29 16.32
+Z
+M209.42 14.93
+L206.79 19.49
+L206.79 20.28
+L209.29 20.28
+L209.29 21.97
+L210.00 21.97
+L210.00 20.28
+L210.78 20.28
+L210.78 19.49
+L210.00 19.49
+L210.00 14.93
+Z
+" fill="black" fill-rule="nonzero" />
+<path d="
+M208.91 27.47
+C209.16 27.47 209.39 27.58 209.57 27.79
+C209.76 28.00 209.85 28.27 209.85 28.60
+C209.85 28.92 209.76 29.18 209.58 29.38
+C209.40 29.58 209.18 29.68 208.92 29.68
+C208.65 29.68 208.43 29.58 208.25 29.37
+C208.06 29.17 207.97 28.89 207.97 28.55
+C207.97 28.24 208.06 27.98 208.25 27.78
+C208.43 27.57 208.65 27.47 208.91 27.47
+Z
+M208.90 30.39
+C209.22 30.39 209.50 30.52 209.74 30.78
+C209.97 31.05 210.09 31.39 210.09 31.83
+C210.09 32.25 209.97 32.60 209.75 32.85
+C209.52 33.11 209.24 33.24 208.92 33.24
+C208.59 33.24 208.32 33.10 208.08 32.84
+C207.85 32.58 207.74 32.23 207.74 31.80
+C207.74 31.38 207.85 31.04 208.08 30.78
+C208.30 30.52 208.58 30.39 208.90 30.39
+Z
+M208.90 26.76
+C208.43 26.76 208.03 26.93 207.72 27.27
+C207.40 27.60 207.24 28.04 207.24 28.57
+C207.24 28.93 207.32 29.22 207.46 29.46
+C207.61 29.70 207.82 29.88 208.11 30.01
+C207.76 30.12 207.50 30.33 207.30 30.63
+C207.11 30.94 207.01 31.33 207.01 31.80
+C207.01 32.44 207.19 32.96 207.56 33.35
+C207.92 33.75 208.37 33.95 208.92 33.95
+C209.46 33.95 209.91 33.75 210.27 33.35
+C210.63 32.96 210.81 32.45 210.81 31.82
+C210.81 31.37 210.72 30.99 210.53 30.68
+C210.35 30.37 210.08 30.15 209.73 30.01
+C210.01 29.88 210.23 29.70 210.37 29.46
+C210.51 29.23 210.58 28.94 210.58 28.60
+C210.58 28.06 210.42 27.62 210.10 27.28
+C209.78 26.93 209.38 26.76 208.90 26.76
+Z
+" fill="black" fill-rule="nonzero" />
+</g>
+<g  transform="translate(1.19,228.58)" >
+<path d="
+M82.85 2.72
+C82.69 2.72 82.55 2.78 82.43 2.89
+C82.32 3.01 82.26 3.15 82.26 3.31
+C82.26 3.47 82.32 3.61 82.43 3.73
+C82.55 3.84 82.69 3.90 82.85 3.90
+C83.02 3.90 83.15 3.84 83.27 3.73
+C83.38 3.61 83.44 3.47 83.44 3.31
+C83.44 3.15 83.38 3.01 83.27 2.89
+C83.15 2.78 83.02 2.72 82.85 2.72
+Z
+M127.57 7.88
+L127.57 8.76
+L130.58 8.76
+L130.58 7.88
+Z
+M87.24 5.79
+C87.55 5.79 87.81 5.91 88.00 6.17
+C88.27 6.52 88.41 7.00 88.41 7.62
+C88.41 8.09 88.31 8.44 88.12 8.66
+C87.93 8.88 87.69 8.99 87.39 8.99
+C87.08 8.99 86.83 8.86 86.63 8.61
+C86.36 8.27 86.23 7.79 86.23 7.18
+C86.23 6.71 86.33 6.36 86.52 6.13
+C86.72 5.90 86.96 5.79 87.24 5.79
+Z
+M118.18 3.33
+C118.41 3.33 118.60 3.39 118.76 3.52
+C118.98 3.70 119.16 4.02 119.30 4.47
+C119.48 5.07 119.58 5.82 119.58 6.72
+C119.58 7.93 119.49 8.87 119.31 9.54
+C119.19 9.98 119.02 10.29 118.80 10.48
+C118.57 10.67 118.35 10.76 118.15 10.76
+C117.71 10.76 117.38 10.47 117.16 9.90
+C116.89 9.21 116.76 8.32 116.76 7.24
+C116.76 6.57 116.81 5.89 116.91 5.20
+C117.01 4.51 117.20 4.00 117.48 3.68
+C117.68 3.45 117.92 3.33 118.18 3.33
+Z
+M145.90 6.52
+C146.39 6.52 146.76 6.76 147.03 7.25
+C147.29 7.73 147.42 8.30 147.42 8.97
+C147.42 9.55 147.29 10.01 147.02 10.33
+C146.76 10.64 146.46 10.80 146.12 10.80
+C145.84 10.80 145.60 10.71 145.40 10.53
+C145.13 10.27 144.92 9.93 144.78 9.49
+C144.65 9.06 144.58 8.65 144.58 8.28
+C144.58 7.96 144.61 7.54 144.68 7.01
+C145.01 6.81 145.26 6.67 145.43 6.61
+C145.60 6.55 145.76 6.52 145.90 6.52
+Z
+M74.70 3.11
+L74.70 3.32
+L74.98 3.32
+C75.17 3.32 75.34 3.37 75.51 3.46
+C75.63 3.53 75.71 3.61 75.75 3.71
+C75.80 3.84 75.83 4.10 75.83 4.50
+L75.83 9.59
+C75.83 10.07 75.78 10.36 75.69 10.49
+C75.54 10.68 75.30 10.77 74.98 10.77
+L74.70 10.77
+L74.70 10.99
+L78.08 10.99
+L78.08 10.77
+L77.80 10.77
+C77.61 10.77 77.43 10.73 77.26 10.63
+C77.14 10.56 77.06 10.48 77.02 10.38
+C76.97 10.26 76.94 9.99 76.94 9.59
+L76.94 7.12
+L78.38 7.12
+C78.64 7.12 78.84 7.15 78.97 7.22
+C79.11 7.30 79.21 7.40 79.29 7.55
+C79.36 7.69 79.40 7.92 79.41 8.22
+L79.62 8.22
+L79.62 5.55
+L79.41 5.55
+C79.36 5.98 79.25 6.27 79.10 6.42
+C78.95 6.56 78.71 6.63 78.38 6.63
+L76.94 6.63
+L76.94 3.54
+L78.68 3.54
+C79.09 3.54 79.39 3.58 79.59 3.65
+C79.78 3.73 79.95 3.86 80.08 4.03
+C80.22 4.20 80.33 4.47 80.44 4.84
+L80.64 4.84
+L80.56 3.11
+Z
+M83.08 5.51
+L81.48 6.16
+L81.56 6.37
+C81.71 6.31 81.84 6.28 81.95 6.28
+C82.05 6.28 82.13 6.30 82.19 6.35
+C82.25 6.40 82.29 6.49 82.32 6.61
+C82.35 6.78 82.37 7.16 82.37 7.73
+L82.37 9.79
+C82.37 10.11 82.34 10.34 82.29 10.45
+C82.24 10.57 82.17 10.65 82.08 10.70
+C81.99 10.75 81.82 10.78 81.56 10.78
+L81.56 10.99
+L84.14 10.99
+L84.14 10.78
+C83.89 10.78 83.72 10.75 83.62 10.70
+C83.53 10.64 83.46 10.56 83.41 10.45
+C83.36 10.34 83.34 10.12 83.34 9.79
+L83.34 5.51
+Z
+M111.97 2.94
+C111.37 2.94 110.86 3.14 110.46 3.52
+C110.06 3.90 109.81 4.45 109.72 5.17
+L109.93 5.17
+C110.08 4.73 110.31 4.40 110.61 4.17
+C110.92 3.95 111.27 3.83 111.66 3.83
+C112.08 3.83 112.45 3.99 112.76 4.32
+C113.06 4.64 113.22 5.05 113.22 5.55
+C113.22 6.20 112.94 6.93 112.38 7.72
+C111.82 8.51 110.86 9.53 109.49 10.77
+L109.49 10.99
+L114.14 10.99
+L114.69 9.47
+L114.48 9.47
+C114.38 9.65 114.26 9.78 114.12 9.88
+C113.99 9.97 113.84 10.03 113.67 10.06
+C113.50 10.10 113.20 10.11 112.79 10.11
+L110.73 10.11
+C110.97 9.89 111.57 9.26 112.54 8.20
+C113.18 7.50 113.64 6.84 113.93 6.21
+C114.12 5.81 114.21 5.41 114.21 5.01
+C114.21 4.45 114.00 3.97 113.57 3.56
+C113.14 3.15 112.61 2.94 111.97 2.94
+Z
+M124.45 2.94
+L122.53 3.88
+L122.62 4.06
+C122.88 3.94 123.08 3.88 123.22 3.88
+C123.32 3.88 123.41 3.91 123.48 3.97
+C123.55 4.02 123.60 4.12 123.63 4.24
+C123.67 4.40 123.69 4.77 123.69 5.34
+L123.69 9.60
+C123.69 10.07 123.66 10.36 123.62 10.45
+C123.58 10.55 123.50 10.62 123.39 10.68
+C123.29 10.73 123.05 10.77 122.67 10.77
+L122.67 10.99
+L125.64 10.99
+L125.64 10.77
+C125.28 10.77 125.05 10.73 124.93 10.67
+C124.81 10.62 124.74 10.53 124.70 10.42
+C124.66 10.32 124.64 10.04 124.64 9.60
+L124.64 2.94
+Z
+M133.79 2.94
+C133.19 2.94 132.69 3.14 132.29 3.52
+C131.89 3.90 131.64 4.45 131.54 5.17
+L131.75 5.17
+C131.90 4.73 132.13 4.40 132.44 4.17
+C132.75 3.95 133.09 3.83 133.48 3.83
+C133.91 3.83 134.27 3.99 134.58 4.32
+C134.89 4.64 135.04 5.05 135.04 5.55
+C135.04 6.20 134.76 6.93 134.20 7.72
+C133.64 8.51 132.68 9.53 131.31 10.77
+L131.31 10.99
+L135.96 10.99
+L136.52 9.47
+L136.30 9.47
+C136.20 9.65 136.08 9.78 135.95 9.88
+C135.81 9.97 135.66 10.03 135.49 10.06
+C135.32 10.10 135.03 10.11 134.61 10.11
+L132.55 10.11
+C132.79 9.89 133.39 9.26 134.36 8.20
+C135.00 7.50 135.47 6.84 135.75 6.21
+C135.94 5.81 136.03 5.41 136.03 5.01
+C136.03 4.45 135.82 3.97 135.39 3.56
+C134.96 3.15 134.43 2.94 133.79 2.94
+Z
+M140.32 2.94
+L138.40 3.88
+L138.49 4.06
+C138.75 3.94 138.95 3.88 139.09 3.88
+C139.19 3.88 139.28 3.91 139.35 3.97
+C139.42 4.02 139.47 4.12 139.50 4.24
+C139.54 4.40 139.56 4.77 139.56 5.34
+L139.56 9.60
+C139.56 10.07 139.53 10.36 139.49 10.45
+C139.45 10.55 139.37 10.62 139.27 10.68
+C139.16 10.73 138.92 10.77 138.54 10.77
+L138.54 10.99
+L141.51 10.99
+L141.51 10.77
+C141.15 10.77 140.92 10.73 140.80 10.67
+C140.68 10.62 140.61 10.53 140.57 10.42
+C140.53 10.32 140.51 10.04 140.51 9.60
+L140.51 2.94
+Z
+M99.08 2.94
+C98.57 2.94 98.14 3.09 97.80 3.38
+C97.45 3.67 97.17 4.08 96.94 4.61
+L97.14 4.70
+C97.54 4.06 98.04 3.73 98.64 3.73
+C99.01 3.73 99.33 3.86 99.58 4.10
+C99.83 4.35 99.95 4.67 99.95 5.07
+C99.95 5.38 99.88 5.66 99.74 5.91
+C99.60 6.17 99.38 6.39 99.07 6.57
+C98.76 6.75 98.45 6.86 98.15 6.90
+L98.15 7.08
+L98.33 7.08
+C98.64 7.08 98.93 7.14 99.22 7.27
+C99.51 7.39 99.74 7.53 99.91 7.69
+C100.03 7.80 100.14 7.96 100.24 8.18
+C100.38 8.47 100.44 8.77 100.44 9.08
+C100.44 9.49 100.30 9.86 100.01 10.16
+C99.71 10.47 99.37 10.62 98.97 10.62
+C98.81 10.62 98.66 10.60 98.51 10.56
+C98.43 10.54 98.26 10.46 98.03 10.34
+C97.80 10.22 97.65 10.15 97.58 10.13
+C97.48 10.10 97.38 10.08 97.29 10.08
+C97.16 10.08 97.05 10.12 96.96 10.21
+C96.87 10.30 96.82 10.39 96.82 10.51
+C96.82 10.66 96.92 10.80 97.11 10.93
+C97.30 11.06 97.66 11.13 98.19 11.13
+C99.27 11.13 100.09 10.80 100.65 10.15
+C101.09 9.65 101.30 9.06 101.30 8.38
+C101.30 7.90 101.18 7.49 100.93 7.13
+C100.68 6.78 100.32 6.51 99.83 6.32
+C100.55 5.71 100.92 5.12 100.92 4.54
+C100.92 4.19 100.79 3.87 100.53 3.56
+C100.19 3.15 99.71 2.94 99.08 2.94
+Z
+M118.19 2.94
+C117.81 2.94 117.45 3.07 117.11 3.32
+C116.66 3.64 116.30 4.12 116.02 4.77
+C115.75 5.42 115.62 6.19 115.62 7.09
+C115.62 8.15 115.83 9.05 116.25 9.80
+C116.75 10.68 117.38 11.13 118.13 11.13
+C118.51 11.13 118.90 10.98 119.31 10.70
+C119.72 10.41 120.06 9.94 120.32 9.30
+C120.58 8.66 120.72 7.89 120.72 6.97
+C120.72 5.67 120.41 4.63 119.81 3.87
+C119.33 3.25 118.79 2.94 118.19 2.94
+Z
+M147.96 2.94
+C147.55 2.94 147.10 3.03 146.62 3.20
+C146.14 3.37 145.64 3.70 145.11 4.19
+C144.59 4.69 144.18 5.25 143.90 5.88
+C143.62 6.52 143.47 7.19 143.47 7.90
+C143.47 9.00 143.84 9.90 144.58 10.59
+C144.95 10.95 145.41 11.13 145.95 11.13
+C146.74 11.13 147.38 10.80 147.86 10.14
+C148.26 9.60 148.46 9.00 148.46 8.34
+C148.46 7.66 148.26 7.10 147.86 6.66
+C147.47 6.23 147.00 6.01 146.46 6.01
+C145.90 6.01 145.34 6.20 144.78 6.59
+C144.92 6.06 145.09 5.60 145.30 5.21
+C145.51 4.83 145.77 4.48 146.09 4.16
+C146.40 3.85 146.72 3.62 147.05 3.46
+C147.37 3.31 147.79 3.21 148.30 3.16
+L148.30 2.94
+Z
+M91.88 9.86
+C91.70 9.86 91.55 9.92 91.42 10.05
+C91.29 10.17 91.23 10.32 91.23 10.51
+C91.23 10.68 91.29 10.84 91.42 10.96
+C91.55 11.09 91.70 11.15 91.88 11.15
+C92.05 11.15 92.21 11.09 92.33 10.96
+C92.46 10.84 92.52 10.68 92.52 10.51
+C92.52 10.33 92.46 10.18 92.33 10.05
+C92.21 9.92 92.06 9.86 91.88 9.86
+Z
+M86.17 10.99
+C86.64 11.05 87.31 11.10 88.18 11.12
+C88.78 11.14 89.18 11.19 89.38 11.27
+C89.58 11.36 89.68 11.50 89.68 11.70
+C89.68 11.98 89.51 12.25 89.18 12.49
+C88.85 12.74 88.34 12.86 87.64 12.86
+C86.91 12.86 86.35 12.74 85.96 12.50
+C85.73 12.36 85.62 12.20 85.62 12.01
+C85.62 11.87 85.67 11.71 85.76 11.54
+C85.85 11.37 85.99 11.19 86.17 10.99
+Z
+M108.97 2.72
+C108.01 3.15 107.24 3.86 106.65 4.85
+C106.05 5.84 105.76 6.93 105.76 8.13
+C105.76 8.96 105.91 9.75 106.21 10.51
+C106.51 11.28 106.94 11.94 107.50 12.50
+C107.89 12.90 108.38 13.24 108.97 13.54
+L108.97 13.32
+C108.58 13.05 108.26 12.76 108.02 12.47
+C107.77 12.17 107.58 11.86 107.44 11.53
+C107.29 11.21 107.17 10.78 107.07 10.24
+C106.94 9.57 106.88 8.81 106.88 7.98
+C106.88 7.22 106.96 6.49 107.11 5.79
+C107.26 5.08 107.49 4.51 107.79 4.05
+C108.10 3.59 108.49 3.23 108.97 2.97
+L108.97 2.72
+Z
+M149.18 2.72
+L149.18 2.97
+C149.58 3.24 149.90 3.52 150.14 3.82
+C150.38 4.12 150.57 4.43 150.71 4.75
+C150.86 5.07 150.98 5.50 151.08 6.04
+C151.21 6.72 151.27 7.47 151.27 8.30
+C151.27 9.06 151.19 9.79 151.05 10.50
+C150.90 11.20 150.67 11.78 150.36 12.24
+C150.05 12.69 149.66 13.05 149.18 13.32
+L149.18 13.54
+C150.14 13.11 150.91 12.40 151.50 11.41
+C152.10 10.42 152.39 9.32 152.39 8.12
+C152.39 7.30 152.24 6.50 151.94 5.74
+C151.64 4.98 151.21 4.32 150.65 3.75
+C150.26 3.36 149.77 3.01 149.18 2.72
+Z
+M87.34 5.51
+C86.72 5.51 86.21 5.70 85.82 6.08
+C85.42 6.46 85.22 6.91 85.22 7.44
+C85.22 7.78 85.31 8.10 85.48 8.38
+C85.66 8.67 85.91 8.89 86.23 9.05
+C85.83 9.38 85.58 9.64 85.47 9.82
+C85.36 10.00 85.30 10.16 85.30 10.30
+C85.30 10.42 85.34 10.52 85.43 10.62
+C85.51 10.71 85.65 10.82 85.85 10.94
+C85.48 11.33 85.29 11.54 85.26 11.57
+C85.05 11.83 84.92 12.03 84.85 12.17
+C84.81 12.26 84.79 12.35 84.79 12.45
+C84.79 12.66 84.93 12.86 85.23 13.05
+C85.74 13.39 86.37 13.56 87.12 13.56
+C88.09 13.56 88.88 13.28 89.49 12.71
+C89.90 12.33 90.10 11.92 90.10 11.48
+C90.10 11.16 89.99 10.89 89.78 10.67
+C89.56 10.46 89.28 10.32 88.92 10.27
+C88.68 10.24 88.16 10.21 87.36 10.19
+C86.93 10.18 86.66 10.17 86.55 10.15
+C86.36 10.12 86.24 10.08 86.18 10.02
+C86.11 9.96 86.08 9.89 86.08 9.83
+C86.08 9.75 86.11 9.65 86.17 9.54
+C86.23 9.43 86.35 9.30 86.52 9.16
+C86.79 9.24 87.06 9.27 87.32 9.27
+C87.96 9.27 88.47 9.10 88.85 8.74
+C89.23 8.39 89.42 7.97 89.42 7.47
+C89.42 7.04 89.31 6.68 89.10 6.40
+L89.79 6.40
+C89.96 6.40 90.05 6.40 90.08 6.38
+C90.11 6.37 90.13 6.36 90.14 6.34
+C90.16 6.30 90.17 6.23 90.17 6.13
+C90.17 6.04 90.16 5.98 90.14 5.94
+C90.13 5.92 90.11 5.90 90.08 5.89
+C90.05 5.88 89.96 5.88 89.79 5.88
+L88.66 5.88
+C88.29 5.63 87.85 5.51 87.34 5.51
+Z
+" fill="black" fill-rule="nonzero" />
+</g>
+</g>
+</svg>
