@@ -36,7 +36,6 @@ body {
 
 </div>
 
-<p class="footer">A brochure of the Ligue de Go d'Ile de France - November 2001
 
 <p><!-- pagebreak --></p> 
 
@@ -313,15 +312,22 @@ Arnaud Knippel
 </tr>
 </table>
 
-Dia. 11: For White, it is worse than the preceding diagram.
+<table>
+<tr>
+<td><img src="./I/Interior/Diags2_Dia11_1.png"  width="343.0" height="365.0"/></td>
+<td><img src="./I/Interior/Diags2_Dia12_1.png"  width="343.0" height="365.0"/></td>
+</tr>
+</table>
 
-Dia. 12: After 4, to attack, White has nothing but 5. If 5 at A, Black 6 at B. Conclusion: White can not kill the invasion; he must accept the pain and wait for revenge: 32.
+<p><b>Dia. 11:</b> For White, it is worse than the preceding diagram.
 
-Fig. 2: White should not play 34 at D. The author will demonstrate the impossibility of killing the black group after 34 at D (Dia. 13-15).
+<p><b>Dia. 12:</b> After 4, to attack, White has nothing but 5. If 5 at A, Black 6 at B. Conclusion: White can not kill the invasion; he must accept the pain and wait for revenge: 32.
 
-Dia. 13: In this diagram, it is no longer a question of killing Black. Playing 5 at 7 is more lively, but - (Dia. 14).
+<p><b>Fig. 2:</b> White should not play 34 at D. The author will demonstrate the impossibility of killing the black group after 34 at D (Dia. 13-15).
 
-Dia. 14: 8 is tesuji. After 12, White has two choices: 13 or 16. if White plays at 13, for Black things are easy. If White plays at 16, that will be a fight (Dia. 15).
+<p><b>Dia. 13:</b> In this diagram, it is no longer a question of killing Black. Playing 5 at 7 is more lively, but - (Dia. 14).
+
+<p><b>Dia. 14:</b> 8 is tesuji. After 12, White has two choices: 13 or 16. if White plays at 13, for Black things are easy. If White plays at 16, that will be a fight (Dia. 15).
 
 Dia. 15: After 20 and 22, there are some variations, but none which work for White. Verify for yourself.
 
@@ -502,6 +508,7 @@ Dia. 5.1: After 12-13, the game will be rather stormy, because according to what
 
 <p>This is just an academic exercise by myself, it is not my aim to produce a quality publication that can be sold in double figures in the lucrative Inglish speaking market. There were some mistakes in Master Lim's text which I corrected, but it would not surprise me if these are outweighed by the ones I introduced myself. If you want a better version of this work but you can not read the original, then simply update the github repository that this work came from. Nothing stops you except a lazy and unscientific nature.
 
+<p>The work was originally published as an A5 booklet by the Ligue de Go d'Ile de France in November 2001. 
 
 
 </body>
