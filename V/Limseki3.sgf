@@ -1,17 +1,28 @@
 
-(;GM[1]FF[4]CA[ISO8859-1]ST[2]AP[GOWrite:2.3.46]SZ[19]PW[ ]PM[2]FG[259:]AW[od]AB[qd][mc]PB[ ]GN[ ]
-;W[qc]
-;B[pc]
-;W[pd]
-;B[oc]
-;W[nc]
-;B[nd]
-;W[nb]
-;B[qb]
-;W[rc]
+(;AP[GOWrite:3.0.10]ST[2]CA[UTF-8]GM[1]SZ[19]FF[4]PB[ ]AB[mc][qd]AW[od]PW[ ]PM[2]FG[257:Dia. 3.1]GN[ ]
+;W[qc];B[pc];W[pd];B[oc];W[nc];B[nd];W[nb];B[qb];W[rc]
+(
 ;B[ob]
-;W[qe]
-;B[mb]
-;W[ne]
-;B[md]
+(
+;W[qe];B[mb];W[ne];B[md]
+)
+(
+;FG[257:Dia. 3.2]PM[2]GOWRITEFG[includePastDiagram]
+;LB[md:A][qe:B][pf:C][rb:D][lc:E]W[mb]
+)
+
+)
+(
+;FG[257:Dia. 3.3]PM[2]GOWRITEFG[includePastDiagram]
+;B[pb]
+(
+;W[qe];B[mb];W[ne];B[md]
+)
+(
+;FG[257:Dia. 3.4]PM[2]GOWRITEFG[includePastDiagram]
+;W[mb];B[rd];W[qe];B[re];W[pf];B[of];W[ne];B[oe];W[pe];B[md];W[pg];B[rf];W[lc];B[ld]
+)
+
+)
+
 )
