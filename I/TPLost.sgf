@@ -1,4 +1,20 @@
 
-(;SZ[19]GM[1]CA[UTF-8]ST[2]FF[4]AP[GOWrite:3.0.10]GN[ ]AW[dc][gc][jc][je][dg][ch][di][ck][cn][kr][kq][lp][mo][op][pq][pn][qm][rm][qk][qj]FG[259:]AB[pc][pd][ce][dp][fq][iq][jr][ef][eg][eh][dh][mm][mq][qo][rl][rk][rj][qh][oh][lc]PB[ ]PW[ ]PM[2]
+(;SZ[19]GM[1]CA[UTF-8]ST[2]FF[4]AP[GOWrite:3.0.10]GN[ ]AW[dc][gc][jc][je][dg][ch][di][ck][cn][kr][kq][lp][mo][op][pq][pn][qm][rm][qk][qj]FG[257:Fig. 3]AB[pc][pd][ce][dp][fq][iq][jr][ef][eg][eh][dh][mm][mq][qo][rl][rk][rj][qh][oh][lc]MN[41]PB[ ]PW[ ]PM[2]GOWRITEFG[mergeTitleRange]
 ;B[dn];W[dm];B[en];W[co];B[cp];W[cg];B[ei];W[dj];B[fk];W[ip];B[jn];W[hp];B[oj];W[ql];LB[bo:A]B[jg]
+;GOWRITEFG[mergeTitleRange]PM[2]FG[257:Fig. 4]
+;W[hm];B[il];W[gk];B[hk];W[gj];B[gl];W[hl];B[fl];W[ik];B[hj];W[jl];B[im];W[ij];B[hi];W[kn];B[hn];W[km];B[le];W[kb];B[lb];W[kf];B[id];W[jd];B[kj];W[mj];B[mg];W[ml]LB[pi:A]
+;PM[2]MN[1]GOWRITEFG[mergeTitleRange]FG[257:Fig. 5 (83-138)]
+;B[cc];W[cb];B[ec];W[eb];B[dd];W[db];B[fc];W[fb];B[gd];W[fd];B[ed];W[hd];B[ge];W[hc];B[ol];W[nl];B[nk];W[om];B[mk]
+(
+;W[ll];B[bo];W[bn];B[bp];W[hf];B[hg];W[gf];B[fe];W[ii];B[ih];W[jk];B[if];W[he];B[bf];W[bg];B[bc];W[gh];B[hh];W[gg];B[gi];W[jq];B[ir];W[gq];B[gr];W[fp];B[hq];W[gp];B[eq];W[la];B[ma];W[ka];B[mb];W[qi];B[ri];W[pi];B[oi];W[bb]LB[ok:A]
+;PM[2]MN[1]GOWRITEFG[mergeTitleRange]FG[257:Fig. 6 (139-212)]
+;B[jo];W[jp];B[ks];W[ls];B[js];W[lr];B[sm];W[sn];B[sl];W[ph];B[pg];W[rn];B[kc];W[jb];B[ab];W[lf];B[mf];W[kh];B[kg];W[lg];B[lh];W[lk];B[lj];W[li];B[mh];W[ki];B[mi];W[jj];B[nj];W[kk];B[mj];W[ji];B[dl];W[cl];B[em];W[cm];B[ko];W[lo];B[ie];W[pl];B[ag];W[ah];B[af];W[cf];B[be];W[bi];B[ok];W[kd];B[ld];W[gn];B[fn];W[go];B[gm];W[df];B[de];W[ej];B[fj];W[io];B[in];W[ao];B[ap];W[an];B[ic];W[ib];B[jf];W[ke];B[jh];W[fh];B[kp];W[dk];B[el];W[ba];B[fi];W[lq]
+)
+(
+;GOWRITEFG[includePastCount:19][mergeTitleRange]PM[2]FG[257:Fig. 5b (83-144)]
+;W[bp];B[bq];W[bo];B[ll];W[nm];B[lm];W[aq];B[br];W[ii];B[hh];W[jk];B[bf];W[bg];B[bc];W[hf];B[ih];W[gf];B[fe];W[qi];B[ri];W[pi];B[oi];W[gq];B[gr];W[fp];B[hq];W[gp];B[eq];W[jq];B[jo];W[jp];B[ir];W[la];B[ma];W[ka];B[mb];W[kk];B[lk];W[ki];B[lj];W[lf];B[mf];W[ko]
+;PM[2]MN[1]GOWRITEFG[mergeTitleRange]FG[257:Fig. 6b (145-212)]
+;B[if];W[he];B[kc];W[jb];B[ks];W[ls];B[js];W[lr];B[sm];W[sn];B[sl];W[ph];B[pg];W[rn];B[dl];W[cl];B[em];W[cm];B[ar];W[li];B[mi];W[mh];B[ni];W[lh];B[ie];W[gg];B[gh];W[bb];B[ab];W[ej];B[fj];W[af];B[ae];W[ag];B[pl];W[mn];B[dk];W[cf];B[be];W[df];B[de];W[ek];B[el];W[cj];B[pm];W[qn];B[ic];W[ib];B[fg];W[gn];B[fn];W[go];B[gm];W[kd];B[ld];W[ap];B[ji];W[jj];B[jh];W[lg];B[ln];W[lo];B[ng];W[io];B[in];W[jf];B[ig];W[ba]
+)
+
 )
