@@ -1,3 +1,25 @@
 
-(;FF[4]SZ[19]AP[GOWrite:3.0.10]GM[1]CA[UTF-8]ST[2]PW[ ]GN[ ]PM[2]PB[ ]FG[259:]
+(;FF[4]SZ[19]AP[GOWrite:3.0.10]GM[1]CA[UTF-8]ST[2]PW[ ]GN[ ]PM[2]PB[ ]FG[257:Dia. 3]
+;B[pd];W[dc];B[dp];W[pq];B[qo];W[qj];B[ce];W[dg];B[ef];W[gc];B[eg];W[di];B[dh];W[cn];B[fq];W[ch];B[eh];W[ck];B[qh]
+(
+;W[qp];B[po];W[np];B[ql];W[oj];B[oh];W[nm];B[pk];W[pj];B[nl];W[ol];B[ok];W[nk];B[ml];W[pm];B[qm];W[nj];B[op];W[nq];B[no];W[mm];B[ll];W[mo];B[mp];W[nn];B[oo];W[mq];B[lp];W[lo];B[lq];W[lr];B[ko];W[kn];B[ln];W[mn];B[kp];W[lm];B[oq];W[or];B[pr];W[nr];B[qq];W[kr];B[io];W[kl];B[lk]
+)
+(
+;FG[257:Dia. 4]GOWRITEFG[includePastCount:100]PM[2]
+;W[ql];B[mq];W[po];B[pp]
+(
+;W[op];B[qp];W[oo];B[oq];W[nq];B[or];W[nr];B[pr];W[mp]
+)
+(
+;FG[257:Dia. 5]GOWRITEFG[includePastCount:100]PM[2]
+;W[qp];B[op];W[qq];B[pn];W[ro];B[oo];W[rn];B[oi];W[ok];B[mj];W[ml];B[pc];W[jc];B[lc];W[je];B[le]
+)
+
+)
+
+(
+;FG[257:Dia. 6]GOWRITEFG[includePastCount:100]PM[2]
+;W[qm];B[mq];W[op];B[oh];W[qc];B[oo];W[np];B[pm];W[pl];B[om];W[oj];B[mi];W[mj];B[pc];W[qd];B[pe];W[qe];B[ic];W[rg];B[rh];W[pf];B[of];W[pg];B[ph];W[og];B[ng];W[rf];B[nf]
+)
+
 )
