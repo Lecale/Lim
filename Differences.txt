@@ -1,0 +1,13 @@
+Differences
+===========
+
+Certain diagrams or figures are different in the translation.
+
+For instance:
+Figures which omit stones which have been captured in the previous diagram
+Part III, Diagram 2
+Part III, Figure 2
+Part III, Diagram 3
+Part 4 with Figure 3
+
+The colours have been inverted in Part I Diagram Extra
